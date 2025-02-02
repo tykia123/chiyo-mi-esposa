@@ -3812,3 +3812,12 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated string at
 [02Feb2025 18:41:10.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale has made the advancement [Straddle My Ol' Saddle]
 [02Feb2025 18:48:02.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale tried to swim in lava
 [02Feb2025 18:48:02.817] [Server thread/INFO] [tombstone/]: The player Vale has successfully been saved
+[02Feb2025 18:53:58.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale tried to swim in lava
+[02Feb2025 18:53:58.161] [Server thread/INFO] [tombstone/]: The player Vale has successfully been saved
+[02Feb2025 18:56:13.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale liquified to Fanta juice
+[02Feb2025 18:56:13.925] [Server thread/INFO] [tombstone/]: The player Vale has successfully been saved
+[02Feb2025 18:56:40.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported Vale to -63.500000, 112.000000, -1137.500000]
+[02Feb2025 18:58:13.370] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28985, l='ServerLevel[world]', x=-20.99, y=-256.00, z=-1216.69] died, message: 'Villager was killed'
+[02Feb2025 18:58:30.369] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/29049, l='ServerLevel[world]', x=-20.99, y=-256.00, z=-1216.69] died, message: 'Villager was killed'
+[02Feb2025 19:01:23.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale has made the advancement [Let The Magic Happen]
+[02Feb2025 19:07:29.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale has made the advancement [The Dust Settles]
