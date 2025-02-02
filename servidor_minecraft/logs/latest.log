@@ -3997,3 +3997,86 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated string at
 [02Feb2025 20:20:10.876] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/43873, l='ServerLevel[world]', x=-725.70, y=35.44, z=-752.32] died: Piglin Knight tried to swim in lava
 [02Feb2025 20:20:16.989] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/43861, l='ServerLevel[world]', x=-729.54, y=34.77, z=-729.34] died: Piglin Knight was shot by Vale
 [02Feb2025 20:20:28.334] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/43940, l='ServerLevel[world]', x=-730.70, y=26.00, z=-728.30] died: Piglin Knight was slain by Guillermo
+[02Feb2025 20:20:33.394] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/43900, l='ServerLevel[world]', x=-730.70, y=26.00, z=-728.30] died: Piglin Knight was slain by Guillermo
+[02Feb2025 20:20:41.556] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/43941, l='ServerLevel[world]', x=-730.70, y=26.64, z=-728.30] died: Piglin Knight was slain by Guillermo
+[02Feb2025 20:20:44.533] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/43860, l='ServerLevel[world]', x=-730.70, y=26.58, z=-728.30] died: Piglin Knight was slain by Guillermo
+[02Feb2025 20:20:54.427] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/43867, l='ServerLevel[world]', x=-725.47, y=36.00, z=-757.45] died: Piglin Knight tried to swim in lava
+[02Feb2025 20:22:28.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale was slain by Piglin Knight
+[02Feb2025 20:22:28.197] [Server thread/INFO] [tombstone/]: The player Vale has successfully been saved
+[02Feb2025 20:22:30.752] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Blacksmith'/43902, l='ServerLevel[world]', x=-719.36, y=36.00, z=-747.02] died: Piglin Blacksmith was shot by Guillermo
+[02Feb2025 20:22:30.952] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/46207, l='ServerLevel[world]', x=-5370.87, y=-28.75, z=-6109.58, removed=DISCARDED]
+[02Feb2025 20:22:35.180] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/43868, l='ServerLevel[world]', x=-719.83, y=36.00, z=-747.84] died: Piglin Knight was shot by Guillermo
+[02Feb2025 20:22:37.859] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/43903, l='ServerLevel[world]', x=-710.22, y=36.00, z=-746.89] died: Piglin Knight was shot by Guillermo
+[02Feb2025 20:23:25.540] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/43866, l='ServerLevel[world]', x=-730.50, y=37.50, z=-757.16] died: Piglin Knight was slain by Guillermo
+[02Feb2025 20:23:32.839] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/43870, l='ServerLevel[world]', x=-730.51, y=37.50, z=-763.06] died: Piglin Knight was slain by Guillermo
+[02Feb2025 20:25:05.188] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/43983, l='ServerLevel[world]', x=-721.72, y=36.00, z=-731.53] died: Piglin Knight was slain by Guillermo
+[02Feb2025 20:25:17.097] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/43982, l='ServerLevel[world]', x=-717.06, y=36.00, z=-729.14] died: Piglin Knight was slain by Guillermo
+[02Feb2025 20:25:46.543] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:25:46.543] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:25:46.543] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:25:46.543] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:25:46.543] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:25:46.543] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:25:46.543] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:27:12.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale was slain by Piglin Paratrooper
+[02Feb2025 20:27:12.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vale moved wrongly!
+[02Feb2025 20:27:12.650] [Server thread/INFO] [tombstone/]: The player Vale has successfully been saved
+[02Feb2025 20:27:16.965] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/46207, l='ServerLevel[world]', x=-5370.87, y=-28.75, z=-6109.58, removed=DISCARDED]
+[02Feb2025 20:27:26.547] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/44024, l='ServerLevel[world]', x=-784.02, y=35.00, z=-759.89] died: Piglin Knight was shot by Guillermo
+[02Feb2025 20:27:28.905] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/44065, l='ServerLevel[world]', x=-784.65, y=35.00, z=-760.50] died: Piglin Knight was shot by Guillermo
+[02Feb2025 20:27:59.198] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Archer'/44023, l='ServerLevel[world]', x=-753.29, y=55.00, z=-754.71] died: Piglin Archer went off with a bang
+[02Feb2025 20:28:08.336] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Alchemist'/44020, l='ServerLevel[world]', x=-761.49, y=35.00, z=-761.51] died: Piglin Alchemist was shot by Guillermo
+[02Feb2025 20:28:40.985] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/43987, l='ServerLevel[world]', x=-708.72, y=36.00, z=-744.72] died: Piglin Paratrooper was slain by Vale
+[02Feb2025 20:28:57.188] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Scout'/44014, l='ServerLevel[world]', x=-729.52, y=37.50, z=-743.87] died: Piglin Scout was shot by Guillermo
+[02Feb2025 20:29:13.535] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Alchemist'/44018, l='ServerLevel[world]', x=-740.10, y=36.00, z=-759.50] died: Piglin Alchemist was shot by Guillermo
+[02Feb2025 20:30:13.789] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/44067, l='ServerLevel[world]', x=-775.39, y=36.00, z=-725.47] died: Piglin Knight was shot by Guillermo
+[02Feb2025 20:30:57.280] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/44094, l='ServerLevel[world]', x=-779.88, y=35.00, z=-758.70] died: Piglin Paratrooper was doomed to fall
+[02Feb2025 20:31:47.141] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/44071, l='ServerLevel[world]', x=-774.37, y=63.00, z=-727.41] died: Piglin Paratrooper was shot by Guillermo
+[02Feb2025 20:32:16.689] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Scout'/44069, l='ServerLevel[world]', x=-773.99, y=63.00, z=-726.79] died: Piglin Scout was shot by Guillermo
+[02Feb2025 20:32:21.187] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Paratrooper'/44093, l='ServerLevel[world]', x=-774.19, y=63.00, z=-727.57] died: Piglin Paratrooper was shot by Guillermo
+[02Feb2025 20:33:15.930] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Archer'/44064, l='ServerLevel[world]', x=-754.80, y=76.00, z=-817.50] died: Piglin Archer suffocated in a wall
+[02Feb2025 20:33:22.741] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:33:22.742] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:33:22.742] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:33:22.742] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:33:22.742] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:33:34.640] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Scout'/44070, l='ServerLevel[world]', x=-787.18, y=62.00, z=-717.88] died: Piglin Scout was slain by Guillermo
+[02Feb2025 20:33:45.791] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Archer'/44081, l='ServerLevel[world]', x=-773.00, y=66.00, z=-803.00] died: Piglin Archer was shot by Vale
+[02Feb2025 20:33:53.491] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:33:53.491] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:34:12.684] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Piglin Knight'/43977, l='ServerLevel[world]', x=-741.09, y=63.00, z=-743.64] died: Piglin Knight was shot by Guillermo
+[02Feb2025 20:34:26.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale was slain by Piglin Knight
+[02Feb2025 20:34:26.745] [Server thread/INFO] [tombstone/]: The player Vale has successfully been saved
+[02Feb2025 20:34:30.107] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/46207, l='ServerLevel[world]', x=-5370.87, y=-28.75, z=-6109.58, removed=DISCARDED]
+[02Feb2025 20:35:17.186] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:35:17.186] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:35:17.186] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:35:17.186] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:35:17.186] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:35:17.186] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:35:17.186] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:35:17.186] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:35:17.187] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:36:26.598] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:36:26.598] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:36:26.598] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:36:26.598] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:36:26.598] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:36:26.598] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:36:26.598] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:36:26.599] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:36:26.599] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:36:55.748] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:36:55.748] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:36:55.748] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:36:55.749] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:36:55.749] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:36:55.749] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 0 air
+[02Feb2025 20:36:59.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale was slain by Piglin Knight
+[02Feb2025 20:36:59.946] [Server thread/INFO] [tombstone/]: The player Vale has successfully been saved
+[02Feb2025 20:37:02.705] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/46207, l='ServerLevel[world]', x=-5370.87, y=-28.75, z=-6109.58, removed=DISCARDED]
+[02Feb2025 20:37:02.745] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/53346, l='ServerLevel[world]', x=-5372.12, y=-30.64, z=-6115.04, removed=DISCARDED]
+[02Feb2025 20:39:41.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale was slain by Piglin Knight
+[02Feb2025 20:39:41.540] [Server thread/INFO] [tombstone/]: The player Vale has successfully been saved
+[02Feb2025 20:39:45.961] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/46207, l='ServerLevel[world]', x=-5370.87, y=-28.75, z=-6109.58, removed=DISCARDED]
+[02Feb2025 20:39:46.007] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/53346, l='ServerLevel[world]', x=-5372.12, y=-30.64, z=-6115.04, removed=DISCARDED]
