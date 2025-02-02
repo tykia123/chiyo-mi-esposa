@@ -3800,3 +3800,12 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated string at
 [02Feb2025 18:05:03.235] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-237, y=16, z=-193}
 [02Feb2025 18:05:08.621] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=15, z=-22}
 [02Feb2025 18:06:51.371] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7881, l='ServerLevel[world]', x=-20.63, y=-256.00, z=-1215.33] died, message: 'Villager was killed'
+[02Feb2025 18:18:45.368] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/11421, l='ServerLevel[world]', x=-14.60, y=-256.00, z=-1207.79] died, message: 'Villager was killed'
+[02Feb2025 18:19:40.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported Vale to -115.500000, 79.000000, -412.500000]
+[02Feb2025 18:21:39.371] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12527, l='ServerLevel[world]', x=-125.31, y=-256.00, z=-417.09] died, message: 'Villager was killed'
+[02Feb2025 18:22:19.368] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12758, l='ServerLevel[world]', x=-125.31, y=-256.00, z=-417.09] died, message: 'Villager was killed'
+[02Feb2025 18:24:11.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo has made the advancement [The Floor is Tears]
+[02Feb2025 18:24:40.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale has made the advancement [Fetch Me Their Souls!]
+[02Feb2025 18:26:00.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> xaero-waypoint:fortaleza:F:-39744:32:-47168:5:false:0:External
+[02Feb2025 18:31:01.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo has reached the goal [In the Hall of the Piglin King]
+[02Feb2025 18:36:30.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo has made the advancement [Knowledge raises the soul]

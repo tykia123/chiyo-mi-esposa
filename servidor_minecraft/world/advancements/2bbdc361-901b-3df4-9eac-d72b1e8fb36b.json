@@ -303,6 +303,7 @@
       "minecraft:pillager": "2024-12-29 05:01:29 +0000",
       "minecraft:skeleton": "2024-12-31 01:43:52 +0000",
       "minecraft:vindicator": "2024-12-29 05:02:52 +0000",
+      "minecraft:magma_cube": "2025-02-02 18:30:57 +0000",
       "minecraft:spider": "2024-12-29 21:05:21 +0000",
       "minecraft:witch": "2025-01-03 21:30:19 +0000",
       "minecraft:wither_skeleton": "2024-12-29 03:22:38 +0000",
@@ -916,7 +917,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2025-01-11 04:13:39 +0000"
+      "minecraft:soul_sand_valley": "2025-01-11 04:13:39 +0000",
+      "minecraft:nether_wastes": "2025-02-02 18:25:31 +0000",
+      "minecraft:basalt_deltas": "2025-02-02 18:29:12 +0000"
     },
     "done": false
   },
@@ -935,6 +938,12 @@
   "twilightforest:hedge": {
     "criteria": {
       "swarm_spider": "2025-01-31 21:08:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2025-02-02 18:24:40 +0000"
     },
     "done": true
   },

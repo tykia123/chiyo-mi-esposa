@@ -1041,9 +1041,21 @@
     },
     "done": true
   },
+  "incendium:quartz_flats/floor_is_tears": {
+    "criteria": {
+      "requirement": "2025-02-02 18:24:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_bridge": "2025-02-02 17:58:45 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/enter_castle": {
+    "criteria": {
+      "requirement": "2025-02-02 18:31:01 +0000"
     },
     "done": true
   },
