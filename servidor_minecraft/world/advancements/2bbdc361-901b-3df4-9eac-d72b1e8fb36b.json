@@ -956,6 +956,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-02-02 19:35:19 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/consume_soul": {
     "criteria": {
       "coded_trigger": "2025-02-02 19:01:23 +0000"

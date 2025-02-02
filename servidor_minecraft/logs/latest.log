@@ -3884,3 +3884,9 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated string at
 [02Feb2025 19:29:08.568] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/38476, l='ServerLevel[world]', x=-5390.50, y=70.00, z=-6012.50]
 [02Feb2025 19:29:23.519] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/38521, l='ServerLevel[world]', x=-5386.50, y=73.00, z=-6020.50]
 [02Feb2025 19:29:34.219] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/38581, l='ServerLevel[world]', x=-5298.50, y=69.00, z=-5993.50]
+[02Feb2025 19:29:57.968] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/38684, l='ServerLevel[world]', x=-5395.50, y=71.00, z=-6039.50]
+[02Feb2025 19:32:05.518] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/39358, l='ServerLevel[world]', x=-5336.50, y=73.00, z=-6023.50]
+[02Feb2025 19:34:55.964] [Worker-Main-12/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[02Feb2025 19:35:19.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale has made the advancement [The Cutest Predator]
+[02Feb2025 19:38:07.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale was slain by Cave Centipede
+[02Feb2025 19:38:08.228] [Server thread/INFO] [tombstone/]: The player Vale has successfully been saved
