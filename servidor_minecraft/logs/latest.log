@@ -3891,3 +3891,5 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated string at
 [02Feb2025 19:38:07.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale was slain by Cave Centipede
 [02Feb2025 19:38:08.228] [Server thread/INFO] [tombstone/]: The player Vale has successfully been saved
 [02Feb2025 19:40:15.418] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/41724, l='ServerLevel[world]', x=-5312.50, y=71.00, z=-6023.50]
+[02Feb2025 19:56:56.874] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2260ms or 45 ticks behind
+[02Feb2025 19:57:24.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale has reached the goal [In the Hall of the Piglin King]
