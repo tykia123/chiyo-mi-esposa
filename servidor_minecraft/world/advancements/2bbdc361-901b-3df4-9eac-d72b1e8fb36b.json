@@ -145,6 +145,7 @@
       "minecraft:beach": "2024-12-28 21:39:39 +0000",
       "minecraft:dark_forest": "2024-12-29 18:17:34 +0000",
       "minecraft:river": "2024-12-28 21:37:51 +0000",
+      "minecraft:lukewarm_ocean": "2025-02-02 19:13:37 +0000",
       "minecraft:stony_shore": "2024-12-28 21:51:51 +0000",
       "minecraft:snowy_plains": "2024-12-29 21:09:16 +0000",
       "minecraft:snowy_taiga": "2024-12-29 21:17:51 +0000",
@@ -905,6 +906,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:ash_barrens": "2025-02-02 19:07:29 +0000",
       "incendium:weeping_valley": "2025-01-11 04:08:00 +0000"
     },
     "done": false
@@ -919,7 +921,8 @@
     "criteria": {
       "minecraft:soul_sand_valley": "2025-01-11 04:13:39 +0000",
       "minecraft:nether_wastes": "2025-02-02 18:25:31 +0000",
-      "minecraft:basalt_deltas": "2025-02-02 18:29:12 +0000"
+      "minecraft:basalt_deltas": "2025-02-02 18:29:12 +0000",
+      "minecraft:warped_forest": "2025-02-02 19:08:44 +0000"
     },
     "done": false
   },
@@ -956,6 +959,12 @@
   "tombstone:adventure/consume_soul": {
     "criteria": {
       "coded_trigger": "2025-02-02 19:01:23 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-02-02 19:07:29 +0000"
     },
     "done": true
   },

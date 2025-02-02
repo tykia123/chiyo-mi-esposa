@@ -142,6 +142,7 @@
       "minecraft:windswept_hills": "2025-01-31 22:55:41 +0000",
       "minecraft:beach": "2024-12-27 05:21:24 +0000",
       "minecraft:river": "2024-12-27 05:24:33 +0000",
+      "minecraft:lukewarm_ocean": "2025-02-02 19:13:36 +0000",
       "minecraft:stony_shore": "2024-12-27 05:26:40 +0000",
       "minecraft:snowy_plains": "2025-01-03 03:51:02 +0000",
       "minecraft:dripstone_caves": "2024-12-30 22:29:34 +0000",
@@ -210,6 +211,7 @@
       "minecraft:vindicator": "2024-12-29 05:02:43 +0000",
       "minecraft:magma_cube": "2025-02-02 06:18:03 +0000",
       "minecraft:spider": "2024-12-29 04:19:26 +0000",
+      "minecraft:piglin_brute": "2025-02-02 19:11:20 +0000",
       "minecraft:creeper": "2024-12-29 03:05:56 +0000",
       "minecraft:slime": "2024-12-29 04:02:47 +0000",
       "minecraft:evoker": "2024-12-31 05:06:10 +0000",
@@ -1063,6 +1065,12 @@
   "incendium:ash_barrens/enter_castle": {
     "criteria": {
       "requirement": "2025-02-02 18:31:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-02-02 19:13:34 +0000"
     },
     "done": true
   },
