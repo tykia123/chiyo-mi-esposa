@@ -306,6 +306,7 @@
       "minecraft:vindicator": "2024-12-29 05:02:52 +0000",
       "minecraft:magma_cube": "2025-02-02 18:30:57 +0000",
       "minecraft:spider": "2024-12-29 21:05:21 +0000",
+      "minecraft:piglin_brute": "2025-02-02 20:14:11 +0000",
       "minecraft:witch": "2025-01-03 21:30:19 +0000",
       "minecraft:wither_skeleton": "2024-12-29 03:22:38 +0000",
       "minecraft:husk": "2025-01-08 20:43:10 +0000",
@@ -944,6 +945,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-02-02 20:06:56 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/soul_vulture": {
     "criteria": {
       "killed_by": "2025-02-02 18:24:40 +0000"
@@ -965,6 +972,12 @@
   "tombstone:adventure/consume_soul": {
     "criteria": {
       "coded_trigger": "2025-02-02 19:01:23 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/enter_castle": {
+    "criteria": {
+      "requirement": "2025-02-02 19:57:24 +0000"
     },
     "done": true
   },
