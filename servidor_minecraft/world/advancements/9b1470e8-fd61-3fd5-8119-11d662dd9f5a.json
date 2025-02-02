@@ -216,6 +216,7 @@
       "minecraft:creeper": "2024-12-29 03:05:56 +0000",
       "minecraft:slime": "2024-12-29 04:02:47 +0000",
       "minecraft:evoker": "2024-12-31 05:06:10 +0000",
+      "minecraft:phantom": "2025-02-02 21:23:00 +0000",
       "minecraft:zombified_piglin": "2025-01-08 23:53:31 +0000",
       "minecraft:witch": "2024-12-31 04:19:14 +0000",
       "minecraft:wither_skeleton": "2024-12-29 03:16:52 +0000",
@@ -592,6 +593,7 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
+      "phantom": "2025-02-02 21:23:00 +0000",
       "warden": "2024-12-30 22:19:08 +0000"
     },
     "done": false
