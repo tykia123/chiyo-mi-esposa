@@ -1053,6 +1053,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-02-02 18:36:30 +0000"
+    },
+    "done": true
+  },
   "incendium:ash_barrens/enter_castle": {
     "criteria": {
       "requirement": "2025-02-02 18:31:01 +0000"

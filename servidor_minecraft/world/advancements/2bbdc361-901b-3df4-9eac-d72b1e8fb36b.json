@@ -947,5 +947,11 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-02-02 18:41:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

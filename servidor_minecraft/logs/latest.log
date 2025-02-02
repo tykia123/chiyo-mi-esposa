@@ -3809,3 +3809,6 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated string at
 [02Feb2025 18:26:00.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> xaero-waypoint:fortaleza:F:-39744:32:-47168:5:false:0:External
 [02Feb2025 18:31:01.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo has reached the goal [In the Hall of the Piglin King]
 [02Feb2025 18:36:30.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo has made the advancement [Knowledge raises the soul]
+[02Feb2025 18:41:10.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale has made the advancement [Straddle My Ol' Saddle]
+[02Feb2025 18:48:02.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale tried to swim in lava
+[02Feb2025 18:48:02.817] [Server thread/INFO] [tombstone/]: The player Vale has successfully been saved
