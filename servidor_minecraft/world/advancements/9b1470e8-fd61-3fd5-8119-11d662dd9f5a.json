@@ -987,33 +987,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2025-02-02 06:37:20 +0000"
-    },
-    "done": true
-  },
-  "incendium:infernal_dunes/pipeline/pipeline_treasure": {
-    "criteria": {
-      "requirement": "2025-02-02 05:56:56 +0000"
-    },
-    "done": true
-  },
-  "incendium:quartz_flats/root": {
-    "criteria": {
-      "requirement": "2025-02-02 06:40:16 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/straddler": {
     "criteria": {
       "killed_by": "2025-02-02 05:40:30 +0000"
-    },
-    "done": true
-  },
-  "incendium:infernal_dunes/pipeline/unlimited_power": {
-    "criteria": {
-      "requirement": "2025-02-02 05:43:16 +0000"
     },
     "done": true
   },
@@ -1023,9 +999,9 @@
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
+  "incendium:infernal_dunes/pipeline/unlimited_power": {
     "criteria": {
-      "bastion": "2025-02-02 06:50:26 +0000"
+      "requirement": "2025-02-02 05:43:16 +0000"
     },
     "done": true
   },
@@ -1035,9 +1011,39 @@
     },
     "done": true
   },
+  "incendium:infernal_dunes/pipeline/pipeline_treasure": {
+    "criteria": {
+      "requirement": "2025-02-02 05:56:56 +0000"
+    },
+    "done": true
+  },
   "incendium:ash_barrens/root": {
     "criteria": {
       "requirement": "2025-02-02 06:23:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-02-02 06:37:20 +0000"
+    },
+    "done": true
+  },
+  "incendium:quartz_flats/root": {
+    "criteria": {
+      "requirement": "2025-02-02 06:40:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-02-02 06:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2025-02-02 17:58:45 +0000"
     },
     "done": true
   },

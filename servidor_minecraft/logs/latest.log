@@ -3792,3 +3792,11 @@ Caused by: com.google.gson.stream.MalformedJsonException: Unterminated string at
 	... 15 more
 [02Feb2025 17:54:26.877] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guillermo[/100.72.57.89:50783] logged in with entity id 3347 at (-484.69999998807907, 83.0, -721.5349197648176)
 [02Feb2025 17:54:26.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo joined the game
+[02Feb2025 17:56:09.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[02Feb2025 17:56:31.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7358ms or 147 ticks behind
+[02Feb2025 17:57:17.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported Vale to 6.500000, 105.000000, -1107.500000]
+[02Feb2025 17:58:45.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo has made the advancement [War Pigs]
+[02Feb2025 18:04:43.368] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6824, l='ServerLevel[world]', x=-20.99, y=-256.00, z=-1216.69] died, message: 'Villager was killed'
+[02Feb2025 18:05:03.235] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-237, y=16, z=-193}
+[02Feb2025 18:05:08.621] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-223, y=15, z=-22}
+[02Feb2025 18:06:51.371] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7881, l='ServerLevel[world]', x=-20.63, y=-256.00, z=-1215.33] died, message: 'Villager was killed'
