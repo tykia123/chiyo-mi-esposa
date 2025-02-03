@@ -616,3 +616,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Feb2025 19:25:55.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM was frozen by Ice Dragon
 [03Feb2025 19:25:55.861] [Server thread/INFO] [tombstone/]: The player ShandeMM has successfully been saved
 [03Feb2025 19:32:10.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShandeMM moved wrongly!
+[03Feb2025 19:39:28.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2302ms or 46 ticks behind
+[03Feb2025 19:43:41.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has completed the challenge [Rude Awakening]

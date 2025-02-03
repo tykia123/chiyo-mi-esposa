@@ -1036,5 +1036,11 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-02-03 19:43:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
