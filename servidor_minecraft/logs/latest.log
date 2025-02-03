@@ -618,3 +618,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Feb2025 19:32:10.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShandeMM moved wrongly!
 [03Feb2025 19:39:28.151] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2302ms or 46 ticks behind
 [03Feb2025 19:43:41.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has completed the challenge [Rude Awakening]
+[03Feb2025 19:54:18.066] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShandeMM lost connection: Disconnected
+[03Feb2025 19:54:18.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM left the game
+[03Feb2025 19:55:21.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
