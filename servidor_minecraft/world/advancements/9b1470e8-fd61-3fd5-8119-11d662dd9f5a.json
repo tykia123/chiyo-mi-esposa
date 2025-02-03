@@ -1047,21 +1047,15 @@
     },
     "done": true
   },
-  "incendium:quartz_flats/floor_is_tears": {
-    "criteria": {
-      "requirement": "2025-02-02 18:24:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_bridge": "2025-02-02 17:58:45 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/choose_knowledge": {
+  "incendium:quartz_flats/floor_is_tears": {
     "criteria": {
-      "coded_trigger": "2025-02-02 18:36:30 +0000"
+      "requirement": "2025-02-02 18:24:11 +0000"
     },
     "done": true
   },
@@ -1071,9 +1065,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/choose_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-02-02 18:36:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/fast_travel": {
     "criteria": {
       "travelled": "2025-02-02 19:13:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-02-03 20:50:41 +0000"
     },
     "done": true
   },

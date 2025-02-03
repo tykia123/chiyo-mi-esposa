@@ -625,3 +625,61 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Feb2025 20:07:07.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM joined the game
 [03Feb2025 20:13:19.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has made the advancement [My Name is Nobody]
 [03Feb2025 20:28:14.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has reached the goal [To be or not to be]
+[03Feb2025 20:38:29.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has completed the challenge [Just a Flesh Wound]
+[03Feb2025 20:46:07.524] [pool-6-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=661, y=76, z=-2603}
+[03Feb2025 20:46:07.941] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=661, y=76, z=-2603} but found not block entity block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] at location
+[03Feb2025 20:46:07.943] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_fence}[east=true,north=false,south=false,waterlogged=false,west=false] but failed at location BlockPos{x=661, y=76, z=-2603}
+[03Feb2025 20:46:31.247] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guillermo[/100.72.57.89:53503] logged in with entity id 44146 at (-5477.534984356948, 65.5, -6377.923107242208)
+[03Feb2025 20:46:31.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo joined the game
+[03Feb2025 20:48:00.054] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45107, l='ServerLevel[world]', x=-5487.50, y=75.00, z=-6284.50]
+[03Feb2025 20:48:03.274] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45125, l='ServerLevel[world]', x=-5452.50, y=71.00, z=-6428.50]
+[03Feb2025 20:49:19.358] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/45764, l='ServerLevel[world]', x=-5436.50, y=74.00, z=-6387.50]
+[03Feb2025 20:50:07.906] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/44286, l='ServerLevel[world]', x=-5429.50, y=65.00, z=-6318.51] died, message: 'Beekeeper was slain by The Moonflower'
+[03Feb2025 20:50:09.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> emncontre
+[03Feb2025 20:50:10.702] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/46271, l='ServerLevel[world]', x=-5488.50, y=75.00, z=-6282.50]
+[03Feb2025 20:50:12.304] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/46282, l='ServerLevel[world]', x=-5450.50, y=71.00, z=-6428.50]
+[03Feb2025 20:50:14.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> otra dungeon tipo aldea
+[03Feb2025 20:50:18.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> te acuerdas?
+[03Feb2025 20:50:41.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo has made the advancement [Clash of the Titans]
+[03Feb2025 20:50:42.058] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/46389, l='ServerLevel[world]', x=-5429.50, y=73.00, z=-6362.50]
+[03Feb2025 20:50:52.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> que haces contra medusa
+[03Feb2025 20:50:54.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> pto
+[03Feb2025 20:50:58.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> la de aldeanos villagers
+[03Feb2025 20:51:04.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> que estaban armados
+[03Feb2025 20:51:14.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> ajam
+[03Feb2025 20:51:16.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> cuando sali del portal apareci aca jajaja
+[03Feb2025 20:51:18.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> voy
+[03Feb2025 20:51:48.402] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/47045, l='ServerLevel[world]', x=-5430.50, y=73.00, z=-6360.50]
+[03Feb2025 20:52:15.555] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/47393, l='ServerLevel[world]', x=-5434.50, y=74.00, z=-6387.50]
+[03Feb2025 20:52:18.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> dimecoordendas
+[03Feb2025 20:52:29.576] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/47567, l='ServerLevel[world]', x=-5428.50, y=73.00, z=-6360.50]
+[03Feb2025 20:52:49.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> x 588
+[03Feb2025 20:53:00.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> z 2433
+[03Feb2025 20:53:05.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> z 2344
+[03Feb2025 20:53:28.476] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/48267, l='ServerLevel[world]', x=-5430.50, y=73.00, z=-6362.50]
+[03Feb2025 20:53:44.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[03Feb2025 20:54:53.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> dame un touch
+[03Feb2025 20:55:19.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> que estoy en -5000 - 6000
+[03Feb2025 20:55:24.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> JAJA
+[03Feb2025 20:55:35.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> wtf mano
+[03Feb2025 20:58:48.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> si o no mano
+[03Feb2025 20:58:52.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> si
+[03Feb2025 20:59:05.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> ahora si
+[03Feb2025 20:59:13.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> vas a demorar
+[03Feb2025 20:59:15.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> ?
+[03Feb2025 20:59:19.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> ahhh
+[03Feb2025 20:59:26.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> pense que pedias opcion
+[03Feb2025 20:59:28.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> jajsajasjsa
+[03Feb2025 20:59:37.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> jajajaj eso era
+[03Feb2025 20:59:42.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> ahora es otra pregunta
+[03Feb2025 20:59:42.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> mmm algo la vdd
+[03Feb2025 21:03:34.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> tre flechas
+[03Feb2025 21:03:47.652] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/53346, l='ServerLevel[world]', x=-5292.50, y=71.00, z=-5879.50]
+[03Feb2025 21:04:50.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> demorare un rato
+[03Feb2025 21:04:57.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> no encuetro mi portal
+[03Feb2025 21:05:02.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> toco a pata
+[03Feb2025 21:05:29.954] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/53915, l='ServerLevel[world]', x=-5308.50, y=69.00, z=-5894.50]
+[03Feb2025 21:06:05.304] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/54169, l='ServerLevel[world]', x=-5304.50, y=73.00, z=-5902.50]
+[03Feb2025 21:06:50.504] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/54476, l='ServerLevel[world]', x=-5232.50, y=72.00, z=-5881.50]
+[03Feb2025 21:06:54.653] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/54500, l='ServerLevel[world]', x=-5293.50, y=71.00, z=-5879.50]
+[03Feb2025 21:07:03.654] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/54622, l='ServerLevel[world]', x=-5310.50, y=69.00, z=-5896.50]
