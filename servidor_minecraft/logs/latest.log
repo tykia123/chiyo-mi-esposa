@@ -610,3 +610,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Feb2025 18:22:32.003] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6950, l='ServerLevel[world]', x=-125.31, y=-256.00, z=-417.09] died, message: 'Villager was killed'
 [03Feb2025 18:23:42.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has reached the goal [Home Sweet Home]
 [03Feb2025 18:28:12.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported ShandeMM to 6.500000, 105.000000, -1107.500000]
+[03Feb2025 19:15:00.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> zzzz
+[03Feb2025 19:16:18.138] [Worker-Main-64/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-754, y=-16, z=-1379}
+[03Feb2025 19:22:28.236] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos BlockPos{x=-501, y=69, z=-2347}
+[03Feb2025 19:25:55.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM was frozen by Ice Dragon
+[03Feb2025 19:25:55.861] [Server thread/INFO] [tombstone/]: The player ShandeMM has successfully been saved
+[03Feb2025 19:32:10.594] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShandeMM moved wrongly!
