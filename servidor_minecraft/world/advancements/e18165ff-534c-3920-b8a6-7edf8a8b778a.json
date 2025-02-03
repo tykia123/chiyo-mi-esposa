@@ -1042,6 +1042,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/use_unstable_intangibility": {
+    "criteria": {
+      "has_magic_scroll": "2025-02-03 20:28:14 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2025-02-03 20:13:19 +0000"
