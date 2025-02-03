@@ -607,3 +607,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Feb2025 18:13:09.326] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShandeMM[/100.123.117.40:56444] logged in with entity id 4124 at (48.5, 28.021599998474123, 49.5)
 [03Feb2025 18:13:09.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM joined the game
 [03Feb2025 18:13:52.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has made the advancement [Fortune Seeker]
+[03Feb2025 18:22:32.003] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/6950, l='ServerLevel[world]', x=-125.31, y=-256.00, z=-417.09] died, message: 'Villager was killed'
+[03Feb2025 18:23:42.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has reached the goal [Home Sweet Home]

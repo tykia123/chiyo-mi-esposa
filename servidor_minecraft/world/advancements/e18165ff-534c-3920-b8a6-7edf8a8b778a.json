@@ -196,6 +196,7 @@
       "cooked_chicken": "2024-12-30 22:41:02 +0000",
       "mushroom_stew": "2025-01-03 18:59:47 +0000",
       "cod": "2025-01-11 03:54:01 +0000",
+      "cooked_salmon": "2025-02-03 18:13:39 +0000",
       "carrot": "2024-12-29 04:01:41 +0000"
     },
     "done": false
@@ -1010,79 +1011,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 18:12:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 18:12:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 18:12:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 18:12:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 18:12:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-02-03 18:12:43 +0000",
-      "log_spam_fixer": "2025-02-03 18:12:43 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 18:12:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 18:12:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 18:12:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 18:12:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 18:12:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-03 18:12:43 +0000"
-    },
-    "done": false
-  },
   "betterdungeons:small_dungeon": {
     "criteria": {
       "in_better_monster_room": "2025-02-03 18:12:30 +0000"
@@ -1092,6 +1020,12 @@
   "tombstone:adventure/use_cupidity": {
     "criteria": {
       "coded_trigger": "2025-02-03 18:12:30 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/old_eye": {
+    "criteria": {
+      "old_eye": "2025-02-03 18:13:52 +0000"
     },
     "done": true
   },
