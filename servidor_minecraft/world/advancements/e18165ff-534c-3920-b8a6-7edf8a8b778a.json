@@ -191,6 +191,7 @@
       "cookie": "2025-01-08 23:55:45 +0000",
       "rotten_flesh": "2025-01-09 00:09:11 +0000",
       "salmon": "2025-02-03 18:11:43 +0000",
+      "melon_slice": "2025-02-03 18:28:34 +0000",
       "golden_carrot": "2024-12-29 04:18:38 +0000",
       "cooked_rabbit": "2024-12-30 22:17:22 +0000",
       "cooked_chicken": "2024-12-30 22:41:02 +0000",
@@ -1026,6 +1027,12 @@
   "endrem:main/old_eye": {
     "criteria": {
       "old_eye": "2025-02-03 18:13:52 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_home": {
+    "criteria": {
+      "coded_trigger": "2025-02-03 18:23:42 +0000"
     },
     "done": true
   },
