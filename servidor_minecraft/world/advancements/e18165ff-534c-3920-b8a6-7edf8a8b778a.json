@@ -190,6 +190,7 @@
       "golden_apple": "2024-12-29 05:59:24 +0000",
       "cookie": "2025-01-08 23:55:45 +0000",
       "rotten_flesh": "2025-01-09 00:09:11 +0000",
+      "salmon": "2025-02-03 18:11:43 +0000",
       "golden_carrot": "2024-12-29 04:18:38 +0000",
       "cooked_rabbit": "2024-12-30 22:17:22 +0000",
       "cooked_chicken": "2024-12-30 22:41:02 +0000",
@@ -526,6 +527,7 @@
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_spider_dungeon": "2024-12-30 23:17:04 +0000",
+      "in_better_monster_room": "2025-02-03 18:12:30 +0000",
       "in_better_skeleton_dungeon": "2025-01-11 20:16:07 +0000"
     },
     "done": false
@@ -1005,6 +1007,91 @@
   "quark:overlevel_enchant": {
     "criteria": {
       "overlevel_enchant": "2025-02-01 21:28:48 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 18:12:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 18:12:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 18:12:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 18:12:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 18:12:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-02-03 18:12:43 +0000",
+      "log_spam_fixer": "2025-02-03 18:12:43 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 18:12:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 18:12:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 18:12:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 18:12:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 18:12:43 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 18:12:43 +0000"
+    },
+    "done": false
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-02-03 18:12:30 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_cupidity": {
+    "criteria": {
+      "coded_trigger": "2025-02-03 18:12:30 +0000"
     },
     "done": true
   },

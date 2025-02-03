@@ -598,3 +598,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Feb2025 17:57:16.559] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
 [03Feb2025 17:57:16.684] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShandeMM[/100.123.117.40:56220] logged in with entity id 1454 at (-132.36722327382347, 100.0, -404.19076333160143)
 [03Feb2025 17:57:16.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM joined the game
+[03Feb2025 18:08:32.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> w
+[03Feb2025 18:12:30.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has reached the goal [Greed may lead to loss]
+[03Feb2025 18:12:30.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has made the advancement [Quite the Renovation]
+[03Feb2025 18:12:48.175] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShandeMM lost connection: Disconnected
+[03Feb2025 18:12:48.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM left the game
+[03Feb2025 18:12:48.240] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[03Feb2025 18:13:09.326] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShandeMM[/100.123.117.40:56444] logged in with entity id 4124 at (48.5, 28.021599998474123, 49.5)
+[03Feb2025 18:13:09.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM joined the game
+[03Feb2025 18:13:52.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has made the advancement [Fortune Seeker]
