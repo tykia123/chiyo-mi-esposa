@@ -621,3 +621,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [03Feb2025 19:54:18.066] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShandeMM lost connection: Disconnected
 [03Feb2025 19:54:18.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM left the game
 [03Feb2025 19:55:21.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[03Feb2025 20:07:07.086] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShandeMM[/100.123.117.40:61389] logged in with entity id 32936 at (247.07513881595344, 30.0, -2158.259257905958)
+[03Feb2025 20:07:07.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM joined the game
+[03Feb2025 20:13:19.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has made the advancement [My Name is Nobody]
