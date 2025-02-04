@@ -1080,6 +1080,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_grave_plate": {
+    "criteria": {
+      "has_grave_plate": "2025-02-04 03:50:30 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_decorative_grave": {
     "criteria": {
       "has_decorative_grave": "2025-02-04 03:43:24 +0000"
@@ -1098,6 +1104,24 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_pray": {
+    "criteria": {
+      "coded_trigger": "2025-02-04 04:06:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/engrave_grave_plate": {
+    "criteria": {
+      "coded_trigger": "2025-02-04 03:52:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/engrave_decorative_grave": {
+    "criteria": {
+      "coded_trigger": "2025-02-04 03:53:56 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_decorative_grave": {
     "criteria": {
       "has_ingredient": "2025-02-04 03:43:24 +0000"
@@ -1107,6 +1131,12 @@
   "tombstone:recipes/from_white_marble": {
     "criteria": {
       "has_ingredient": "2025-02-04 03:43:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_strange_tablet": {
+    "criteria": {
+      "has_strange_tablet": "2025-02-04 03:58:04 +0000"
     },
     "done": true
   },

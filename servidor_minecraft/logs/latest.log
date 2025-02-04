@@ -656,3 +656,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Feb2025 03:25:22.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> wow
 [04Feb2025 03:43:04.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has made the advancement [Black or White]
 [04Feb2025 03:43:24.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has reached the goal [A Small Cemetery]
+[04Feb2025 03:50:30.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has made the advancement [Grave Inscription]
+[04Feb2025 03:52:46.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has made the advancement [Who's This Guy?]
+[04Feb2025 03:53:56.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has reached the goal [Unforgettable]
+[04Feb2025 03:58:04.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has made the advancement [Not of Chocolate]
+[04Feb2025 04:05:58.368] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guillermo[/100.72.57.89:50048] logged in with entity id 35634 at (-99.0840342029136, 108.0, -1092.3685958107933)
+[04Feb2025 04:05:58.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo joined the game
+[04Feb2025 04:06:48.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has made the advancement [First Prayer]
+[04Feb2025 04:07:07.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to ShandeMM: franco es negro
+[04Feb2025 04:07:14.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> XDD
+[04Feb2025 04:07:20.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> QEU HACES BETO DE INCOGNITO
+[04Feb2025 04:09:33.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> guille ontas
+[04Feb2025 04:09:46.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> casa
