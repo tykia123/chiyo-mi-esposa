@@ -654,3 +654,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Feb2025 03:25:10.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has made the advancement [Quickly Applied]
 [04Feb2025 03:25:17.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has made the advancement [Vanishing]
 [04Feb2025 03:25:22.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> wow
+[04Feb2025 03:43:04.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has made the advancement [Black or White]
+[04Feb2025 03:43:24.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has reached the goal [A Small Cemetery]
