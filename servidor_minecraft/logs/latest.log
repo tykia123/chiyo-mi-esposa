@@ -739,3 +739,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Feb2025 04:26:29.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> deja de hackear
 [04Feb2025 04:31:27.879] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/48682, l='ServerLevel[world]', x=-13.67, y=-256.00, z=-1207.65] died, message: 'Villager was killed'
 [04Feb2025 04:34:51.477] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/50982, l='ServerLevel[world]', x=-125.43, y=-256.00, z=-407.89] died, message: 'Villager was killed'
+[04Feb2025 04:41:08.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM was squashed by The Bomber
+[04Feb2025 04:41:08.528] [Server thread/INFO] [tombstone/]: The player ShandeMM has successfully been saved
+[04Feb2025 04:41:13.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> lol
+[04Feb2025 04:41:28.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> yara 7 boomers
+[04Feb2025 04:45:18.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShandeMM lost connection: Disconnected
+[04Feb2025 04:45:18.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM left the game
