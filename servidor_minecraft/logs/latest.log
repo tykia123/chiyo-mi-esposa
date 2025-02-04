@@ -629,3 +629,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Feb2025 01:52:46.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> god
 [04Feb2025 01:53:47.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zaitsevv lost connection: Disconnected
 [04Feb2025 01:53:47.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zaitsevv left the game
+[04Feb2025 02:11:24.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported ShandeMM to -115.500000, 79.000000, -412.500000]
