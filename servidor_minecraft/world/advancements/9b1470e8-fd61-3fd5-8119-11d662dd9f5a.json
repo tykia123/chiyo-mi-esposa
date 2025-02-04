@@ -1106,5 +1106,17 @@
     },
     "done": true
   },
+  "tombstone:adventure/vanishing": {
+    "criteria": {
+      "coded_trigger": "2025-02-04 04:11:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:red": "2025-02-04 04:10:13 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
