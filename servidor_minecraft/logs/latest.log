@@ -612,3 +612,20 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Feb2025 01:39:47.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2564ms or 51 ticks behind
 [04Feb2025 01:46:46.189] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShandeMM[/100.123.117.40:51497] logged in with entity id 3403 at (181.4269574162358, 70.0, -2582.1235818077957)
 [04Feb2025 01:46:46.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM joined the game
+[04Feb2025 01:47:31.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> uww
+[04Feb2025 01:48:49.772] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShandeMM lost connection: Timed out
+[04Feb2025 01:48:49.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM left the game
+[04Feb2025 01:49:01.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zaitsevv: Set own game mode to Survival Mode]
+[04Feb2025 01:49:07.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zaitsevv: Set own game mode to Creative Mode]
+[04Feb2025 01:49:11.478] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShandeMM[/100.123.117.40:51613] logged in with entity id 4716 at (251.56874113219519, 73.17675927506424, -2357.033416845523)
+[04Feb2025 01:49:11.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM joined the game
+[04Feb2025 01:49:26.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zaitsevv: Set own game mode to Survival Mode]
+[04Feb2025 01:51:05.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zaitsevv: Set own game mode to Creative Mode]
+[04Feb2025 01:51:09.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zaitsevv> zzzzzzzzzzzzzzzzzzz
+[04Feb2025 01:51:46.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> no ando cama
+[04Feb2025 01:52:29.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <zaitsevv> me cago en tus muertos
+[04Feb2025 01:52:43.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> yo tmb tkm
+[04Feb2025 01:52:43.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [zaitsevv: Set the time to 1000]
+[04Feb2025 01:52:46.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> god
+[04Feb2025 01:53:47.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zaitsevv lost connection: Disconnected
+[04Feb2025 01:53:47.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zaitsevv left the game
