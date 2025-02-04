@@ -650,3 +650,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Feb2025 02:41:28.176] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/24097, l='ServerLevel[world]', x=-67.19, y=-20.00, z=-14.50] died: Restless Spirit was killed
 [04Feb2025 02:41:33.177] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/24119, l='ServerLevel[world]', x=23.49, y=-20.00, z=-104.49] died: Restless Spirit was killed
 [04Feb2025 02:41:33.178] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/24121, l='ServerLevel[world]', x=26.49, y=-20.00, z=-106.48] died: Restless Spirit was killed
+[04Feb2025 02:52:57.724] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26488, l='ServerLevel[world]', x=-125.60, y=-256.00, z=-417.10] died, message: 'Villager was killed'
