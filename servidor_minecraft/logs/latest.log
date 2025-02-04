@@ -630,3 +630,10 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Feb2025 01:53:47.412] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zaitsevv lost connection: Disconnected
 [04Feb2025 01:53:47.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zaitsevv left the game
 [04Feb2025 02:11:24.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported ShandeMM to -115.500000, 79.000000, -412.500000]
+[04Feb2025 02:28:06.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported ShandeMM to 6.500000, 105.000000, -1107.500000]
+[04Feb2025 02:32:20.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported ShandeMM to -115.500000, 79.000000, -412.500000]
+[04Feb2025 02:33:45.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported ShandeMM to 6.500000, 105.000000, -1107.500000]
+[04Feb2025 02:36:41.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported ShandeMM to -115.500000, 79.000000, -412.500000]
+[04Feb2025 02:37:27.175] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20159, l='ServerLevel[world]', x=63.29, y=-20.00, z=-164.69] died: Restless Spirit was killed
+[04Feb2025 02:37:27.176] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20161, l='ServerLevel[world]', x=15.13, y=-20.00, z=-170.59] died: Restless Spirit was killed
+[04Feb2025 02:37:27.177] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20163, l='ServerLevel[world]', x=66.23, y=-20.00, z=-156.81] died: Restless Spirit was killed
