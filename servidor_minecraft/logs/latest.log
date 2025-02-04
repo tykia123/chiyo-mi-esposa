@@ -605,3 +605,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Feb2025 17:28:57.258] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guillermo[/100.72.57.89:50166] logged in with entity id 1455 at (18.112124002070185, 112.0, -1132.2293715646192)
 [04Feb2025 17:28:57.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo joined the game
 [04Feb2025 17:29:00.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3033ms or 60 ticks behind
+[04Feb2025 17:40:24.581] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vale[/100.70.125.24:52279] logged in with entity id 5283 at (-5378.762499988079, 16.0, -6031.447483414041)
+[04Feb2025 17:40:24.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale joined the game

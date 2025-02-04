@@ -947,12 +947,6 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-02-02 20:06:56 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/soul_vulture": {
     "criteria": {
       "killed_by": "2025-02-02 18:24:40 +0000"
@@ -965,15 +959,21 @@
     },
     "done": true
   },
-  "minecraft:husbandry/axolotl_in_a_bucket": {
-    "criteria": {
-      "axolotl_bucket": "2025-02-02 19:35:19 +0000"
-    },
-    "done": true
-  },
   "tombstone:adventure/consume_soul": {
     "criteria": {
       "coded_trigger": "2025-02-02 19:01:23 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-02-02 19:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-02-02 19:35:19 +0000"
     },
     "done": true
   },
@@ -983,9 +983,9 @@
     },
     "done": true
   },
-  "incendium:ash_barrens/root": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "requirement": "2025-02-02 19:07:29 +0000"
+      "crying_obsidian": "2025-02-02 20:06:56 +0000"
     },
     "done": true
   },
