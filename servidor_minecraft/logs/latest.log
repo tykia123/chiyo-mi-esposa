@@ -606,3 +606,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [04Feb2025 01:35:24.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: :v<--[HERE]
 [04Feb2025 01:35:28.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [04Feb2025 01:35:28.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: franco es un negro de mierda<--[HERE]
+[04Feb2025 01:39:45.132] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[04Feb2025 01:39:45.227] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: zaitsevv[/100.127.12.49:55537] logged in with entity id 1458 at (6.5, 105.0, -1107.5)
+[04Feb2025 01:39:45.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zaitsevv joined the game
+[04Feb2025 01:39:47.787] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2564ms or 51 ticks behind
+[04Feb2025 01:46:46.189] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShandeMM[/100.123.117.40:51497] logged in with entity id 3403 at (181.4269574162358, 70.0, -2582.1235818077957)
+[04Feb2025 01:46:46.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM joined the game
