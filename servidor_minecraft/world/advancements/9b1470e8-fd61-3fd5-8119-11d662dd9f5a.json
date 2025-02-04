@@ -153,8 +153,10 @@
       "minecraft:cold_ocean": "2024-12-27 05:32:31 +0000",
       "minecraft:forest": "2024-12-27 05:28:58 +0000",
       "minecraft:lush_caves": "2024-12-27 05:57:24 +0000",
+      "minecraft:frozen_ocean": "2025-02-03 22:15:07 +0000",
       "minecraft:windswept_forest": "2025-01-31 22:16:51 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-27 05:09:41 +0000",
+      "minecraft:snowy_beach": "2025-02-03 22:28:59 +0000",
       "minecraft:deep_dark": "2024-12-30 22:05:47 +0000",
       "minecraft:meadow": "2024-12-29 02:46:27 +0000",
       "minecraft:plains": "2024-12-29 02:42:33 +0000"
@@ -225,6 +227,7 @@
       "minecraft:cave_spider": "2025-01-11 03:18:53 +0000",
       "minecraft:silverfish": "2025-01-03 03:21:17 +0000",
       "minecraft:enderman": "2025-01-03 05:50:48 +0000",
+      "minecraft:stray": "2025-02-03 22:13:23 +0000",
       "minecraft:vex": "2025-01-08 23:18:29 +0000",
       "minecraft:zombie": "2024-12-27 05:12:29 +0000",
       "quark:foxhound": "2025-02-02 19:04:10 +0000",
@@ -815,7 +818,8 @@
     "criteria": {
       "incendium:ash_barrens": "2025-02-02 06:23:09 +0000",
       "incendium:weeping_valley": "2025-01-08 21:50:52 +0000",
-      "incendium:quartz_flats": "2025-02-02 06:40:16 +0000"
+      "incendium:quartz_flats": "2025-02-02 06:40:16 +0000",
+      "incendium:toxic_heap": "2025-02-03 21:27:42 +0000"
     },
     "done": false
   },
@@ -1078,15 +1082,100 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-02-03 20:50:41 +0000"
+    },
+    "done": true
+  },
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-02-03 21:13:42 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/gorgon_head": {
+  "incendium:toxic_heap/root": {
     "criteria": {
-      "bestiary": "2025-02-03 20:50:41 +0000"
+      "requirement": "2025-02-03 21:27:42 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 22:39:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 22:39:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 22:39:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 22:39:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 22:39:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-02-03 22:40:10 +0000",
+      "log_spam_fixer": "2025-02-03 22:39:59 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 22:39:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 22:39:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 22:39:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 22:39:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 22:39:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-03 22:39:59 +0000"
+    },
+    "done": false
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-02-03 22:21:16 +0000"
     },
     "done": true
   },
