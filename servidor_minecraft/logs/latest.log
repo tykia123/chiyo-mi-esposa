@@ -602,3 +602,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Feb2025 18:52:02.733] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vale[/100.70.125.24:56809] logged in with entity id 1461 at (-59.74837452113028, 119.0, -1178.1465640549877)
 [05Feb2025 18:52:02.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale joined the game
 [05Feb2025 18:52:04.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
+[05Feb2025 19:04:34.444] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4947, l='ServerLevel[world]', x=-20.63, y=-256.00, z=-1215.33] died, message: 'Villager was killed'
+[05Feb2025 19:11:44.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vale lost connection: Disconnected
+[05Feb2025 19:11:44.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale left the game
