@@ -737,3 +737,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Feb2025 07:01:58.774] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/59842, l='ServerLevel[world]', x=-20.99, y=-256.00, z=-1216.69] died, message: 'Villager was killed'
 [05Feb2025 07:04:11.774] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/60250, l='ServerLevel[world]', x=-20.63, y=-256.00, z=-1215.33] died, message: 'Villager was killed'
 [05Feb2025 07:22:10.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo has completed the challenge [Nuh UH!]
+[05Feb2025 07:42:58.774] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/69167, l='ServerLevel[world]', x=-20.63, y=-256.00, z=-1215.33] died, message: 'Villager was killed'
+[05Feb2025 07:45:24.239] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guillermo lost connection: Disconnected
+[05Feb2025 07:45:24.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo left the game
