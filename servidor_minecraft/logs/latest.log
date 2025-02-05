@@ -738,3 +738,32 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Feb2025 21:15:48.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> 162.-1250
 [05Feb2025 21:16:17.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> altura
 [05Feb2025 21:16:20.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> -6
+[05Feb2025 21:17:04.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> no
+[05Feb2025 21:17:09.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2683ms or 53 ticks behind
+[05Feb2025 21:17:26.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> ven al nether
+[05Feb2025 21:17:35.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> ether?
+[05Feb2025 21:17:50.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> ether??
+[05Feb2025 21:17:52.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> baja hay un portal
+[05Feb2025 21:17:54.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> no over
+[05Feb2025 21:17:59.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> una mansion
+[05Feb2025 21:18:31.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> estoy en el portal
+[05Feb2025 21:18:36.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> mierda no traje los ojos
+[05Feb2025 21:18:38.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> como kk
+[05Feb2025 21:18:53.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[05Feb2025 21:19:12.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4073ms or 81 ticks behind
+[05Feb2025 21:23:18.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> q fue
+[05Feb2025 21:23:20.890] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05Feb2025 21:23:23.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> llegando
+[05Feb2025 21:23:38.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2613ms or 52 ticks behind
+[05Feb2025 21:24:26.640] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05Feb2025 21:24:31.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> listo
+[05Feb2025 21:24:37.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> estoy en el portal al end
+[05Feb2025 21:25:04.386] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/64731, l='ServerLevel[world]', x=21.27, y=-20.00, z=-120.64] died: Restless Spirit was killed
+[05Feb2025 21:25:06.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> que mrd
+[05Feb2025 21:25:17.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> el ojo dice que no quiere ser usado
+[05Feb2025 21:25:22.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> ¡?'?
+[05Feb2025 21:25:22.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> y esa kgada¡
+[05Feb2025 21:25:33.440] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/67117, l='ServerLevel[world]', x=-20.63, y=-256.00, z=-1215.33] died, message: 'Villager was killed'
+[05Feb2025 21:25:58.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> pera alla voy
+[05Feb2025 21:26:01.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> vere en internet
+[05Feb2025 21:26:45.800] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/66368, l='ServerLevel[world]', x=71.64, y=-20.00, z=-73.21] died: Restless Spirit was killed
