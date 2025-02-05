@@ -641,3 +641,43 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Feb2025 03:21:20.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> ademas,tambien esta la ancient city
 [05Feb2025 03:21:28.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> tienen como un portal
 [05Feb2025 03:21:29.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> esa es la ancient city
+[05Feb2025 03:23:35.777] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12099, l='ServerLevel[world]', x=-14.60, y=-256.00, z=-1207.79] died, message: 'Villager was killed'
+[05Feb2025 03:23:52.326] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12147, l='ServerLevel[world]', x=-125.62, y=-256.00, z=-417.02] died, message: 'Villager was killed'
+[05Feb2025 03:24:03.986] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vale[/100.70.125.24:54188] logged in with entity id 12271 at (-850.7411464640514, 70.41999998688698, -1839.295180052132)
+[05Feb2025 03:24:04.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale joined the game
+[05Feb2025 03:24:18.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> yo me acuerdo que habia un portal a otra dimension
+[05Feb2025 03:24:26.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> what
+[05Feb2025 03:24:31.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[05Feb2025 03:24:43.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> si, era como en el centro de esa vaina
+[05Feb2025 03:24:48.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> o en una pared
+[05Feb2025 03:24:51.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[05Feb2025 03:24:53.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> es como una pal nether
+[05Feb2025 03:25:21.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[05Feb2025 03:25:40.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3232ms or 64 ticks behind
+[05Feb2025 03:25:57.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3007ms or 60 ticks behind
+[05Feb2025 03:26:15.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
+[05Feb2025 03:26:35.182] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[05Feb2025 03:26:57.164] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/12311, l='ServerLevel[world]', x=-845.13, y=71.00, z=-1843.96] died, message: 'Villager was slain by The Wheezer'
+[05Feb2025 03:26:57.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[05Feb2025 03:27:14.352] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2180ms or 43 ticks behind
+[05Feb2025 03:27:33.223] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05Feb2025 03:27:47.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> confirma bien
+[05Feb2025 03:27:53.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> qie no quiero ir solo a morir
+[05Feb2025 03:28:06.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[05Feb2025 03:28:39.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[05Feb2025 03:29:06.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[05Feb2025 03:29:26.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4529ms or 90 ticks behind
+[05Feb2025 03:29:51.538] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[05Feb2025 03:30:09.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> creo que era un mod
+[05Feb2025 03:30:16.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> espera que sigues ahi mamawebo
+[05Feb2025 03:30:24.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> ando en casa
+[05Feb2025 03:30:27.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> ordenando
+[05Feb2025 03:30:31.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[05Feb2025 03:31:05.950] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/16039, l='ServerLevel[world]', x=-125.50, y=-256.00, z=-417.03] died, message: 'Villager was killed'
+[05Feb2025 03:31:06.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale was slain by Skeleton
+[05Feb2025 03:31:08.277] [Server thread/INFO] [tombstone/]: The player Vale has successfully been saved
+[05Feb2025 03:31:08.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3612ms or 72 ticks behind
+[05Feb2025 03:31:29.177] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[05Feb2025 03:31:46.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2709ms or 54 ticks behind
+[05Feb2025 03:32:04.402] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2530ms or 50 ticks behind
+[05Feb2025 03:32:21.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2277ms or 45 ticks behind
