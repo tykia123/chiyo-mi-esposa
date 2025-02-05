@@ -283,6 +283,7 @@
       "minecraft:skeleton": "2024-12-29 04:34:15 +0000",
       "minecraft:ghast": "2025-01-04 21:26:34 +0000",
       "minecraft:hoglin": "2025-01-04 19:58:48 +0000",
+      "minecraft:guardian": "2025-02-04 20:33:07 +0000",
       "minecraft:vindicator": "2024-12-30 23:14:08 +0000",
       "minecraft:spider": "2024-12-29 04:10:28 +0000",
       "minecraft:piglin_brute": "2025-01-03 20:44:40 +0000",
@@ -300,6 +301,7 @@
       "minecraft:enderman": "2025-01-11 03:49:56 +0000",
       "minecraft:vex": "2024-12-30 23:09:20 +0000",
       "minecraft:zombie": "2024-12-29 03:54:11 +0000",
+      "quark:foxhound": "2025-02-04 20:54:30 +0000",
       "minecraft:drowned": "2025-01-03 02:49:51 +0000",
       "minecraft:zombie_villager": "2024-12-29 05:11:39 +0000"
     },
@@ -732,6 +734,7 @@
   },
   "incendium:misc/soul_searcher": {
     "criteria": {
+      "incendium:ash_barrens": "2025-02-04 20:45:18 +0000",
       "incendium:weeping_valley": "2025-01-03 20:39:50 +0000"
     },
     "done": false
@@ -762,6 +765,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-02-04 20:45:39 +0000",
       "minecraft:soul_sand_valley": "2025-01-03 20:48:58 +0000",
       "minecraft:nether_wastes": "2025-01-04 20:06:15 +0000",
       "minecraft:basalt_deltas": "2025-01-03 20:48:53 +0000"
@@ -1080,87 +1084,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "tombstone:adventure/combine_in_inventory": {
     "criteria": {
-      "log_spam_fixer": "2025-02-04 04:44:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-04 04:44:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-04 04:44:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-04 04:44:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-04 04:44:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-04 04:44:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-04 04:44:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-04 04:44:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-04 04:44:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-04 04:44:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-04 04:44:49 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-04 04:44:49 +0000"
-    },
-    "done": false
-  },
-  "tombstone:adventure/create_grave_plate": {
-    "criteria": {
-      "has_grave_plate": "2025-02-04 03:50:30 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_decorative_grave": {
-    "criteria": {
-      "has_decorative_grave": "2025-02-04 03:43:24 +0000"
+      "coded_trigger": "2025-02-04 03:25:10 +0000"
     },
     "done": true
   },
@@ -1170,33 +1096,33 @@
     },
     "done": true
   },
-  "mowziesmobs:suns_blessing": {
+  "tombstone:recipes/from_white_marble": {
     "criteria": {
-      "get_suns_blessing": "2025-02-04 04:23:55 +0000"
+      "has_ingredient": "2025-02-04 03:43:04 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/ancient_knowledge": {
+  "tombstone:adventure/create_grave_marble": {
     "criteria": {
-      "coded_trigger": "2025-02-04 04:23:26 +0000"
+      "has_grave_marble": "2025-02-04 03:43:04 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/combine_in_inventory": {
+  "tombstone:adventure/create_decorative_grave": {
     "criteria": {
-      "coded_trigger": "2025-02-04 03:25:10 +0000"
+      "has_decorative_grave": "2025-02-04 03:43:24 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/find_ancient_tablet": {
+  "tombstone:recipes/from_decorative_grave": {
     "criteria": {
-      "has_ancient_tablet": "2025-02-04 04:23:26 +0000"
+      "has_ingredient": "2025-02-04 03:43:24 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/first_pray": {
+  "tombstone:adventure/create_grave_plate": {
     "criteria": {
-      "coded_trigger": "2025-02-04 04:06:48 +0000"
+      "has_grave_plate": "2025-02-04 03:50:30 +0000"
     },
     "done": true
   },
@@ -1212,9 +1138,39 @@
     },
     "done": true
   },
+  "tombstone:adventure/create_strange_tablet": {
+    "criteria": {
+      "has_strange_tablet": "2025-02-04 03:58:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_pray": {
+    "criteria": {
+      "coded_trigger": "2025-02-04 04:06:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ancient_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-02-04 04:23:26 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_ancient_tablet": {
+    "criteria": {
+      "has_ancient_tablet": "2025-02-04 04:23:26 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/consume_soul": {
     "criteria": {
       "coded_trigger": "2025-02-04 04:23:26 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-02-04 04:23:55 +0000"
     },
     "done": true
   },
@@ -1224,27 +1180,57 @@
     },
     "done": true
   },
-  "tombstone:recipes/from_decorative_grave": {
+  "alexscaves:alexscaves/discover_toxic_caves": {
     "criteria": {
-      "has_ingredient": "2025-02-04 03:43:24 +0000"
+      "discover": "2025-02-04 18:59:10 +0000"
     },
     "done": true
   },
-  "tombstone:recipes/from_white_marble": {
+  "tombstone:adventure/discreet_search": {
     "criteria": {
-      "has_ingredient": "2025-02-04 03:43:04 +0000"
+      "coded_trigger": "2025-02-04 19:21:10 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/create_strange_tablet": {
+  "cataclysm:find_sunken_city": {
     "criteria": {
-      "has_strange_tablet": "2025-02-04 03:58:04 +0000"
+      "factory": "2025-02-04 20:17:17 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/create_grave_marble": {
+  "dungeons_arise:find_illager_corsair_or_illager_galley": {
     "criteria": {
-      "has_grave_marble": "2025-02-04 03:43:04 +0000"
+      "location0": "2025-02-04 20:30:46 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2025-02-04 20:43:37 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2025-02-04 20:43:37 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-02-04 20:45:18 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:main/find_ancient_city": {
+    "criteria": {
+      "ancient_city": "2025-02-04 21:46:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-02-04 22:11:30 +0000"
     },
     "done": true
   },
