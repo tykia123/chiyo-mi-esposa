@@ -608,3 +608,36 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Feb2025 03:05:30.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> salgamos primero
 [05Feb2025 03:05:42.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> on de cch esta la salida
 [05Feb2025 03:05:50.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> pica pa arriba jajaja
+[05Feb2025 03:10:27.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[05Feb2025 03:10:57.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 14818ms or 296 ticks behind
+[05Feb2025 03:11:02.727] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-659, y=30, z=-259} BlockPos{x=-658, y=30, z=-260}
+[05Feb2025 03:11:20.367] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7944ms or 158 ticks behind
+[05Feb2025 03:11:45.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10246ms or 204 ticks behind
+[05Feb2025 03:12:04.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3971ms or 79 ticks behind
+[05Feb2025 03:12:22.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2592ms or 51 ticks behind
+[05Feb2025 03:12:40.450] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3428ms or 68 ticks behind
+[05Feb2025 03:12:59.171] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3749ms or 74 ticks behind
+[05Feb2025 03:13:14.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> coordenadas
+[05Feb2025 03:13:18.666] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4544ms or 90 ticks behind
+[05Feb2025 03:13:39.883] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6261ms or 125 ticks behind
+[05Feb2025 03:13:58.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3712ms or 74 ticks behind
+[05Feb2025 03:14:41.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShandeMM moved too quickly! 9.958110634432614,-0.5800000131130219,-1.4993801696116407
+[05Feb2025 03:17:13.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> no mano
+[05Feb2025 03:17:19.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> no se pueden craftear de suerte
+[05Feb2025 03:17:26.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> solo para no evitar perder xp
+[05Feb2025 03:17:31.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> y otras hvd
+[05Feb2025 03:19:11.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> ptm
+[05Feb2025 03:19:15.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> y ahora?
+[05Feb2025 03:19:44.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> nos preparamos?
+[05Feb2025 03:19:56.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> como y pa donde
+[05Feb2025 03:20:21.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> para los warden
+[05Feb2025 03:20:34.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> que les quieres pelear ?
+[05Feb2025 03:20:39.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> pero ya no tienen cofres
+[05Feb2025 03:20:43.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> sipe mano
+[05Feb2025 03:20:46.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> como que no
+[05Feb2025 03:20:54.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> solo eploramos un lao
+[05Feb2025 03:21:02.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> yo mas lado no he visto
+[05Feb2025 03:21:06.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> falta como la mitad o mas
+[05Feb2025 03:21:20.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> ademas,tambien esta la ancient city
+[05Feb2025 03:21:28.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> tienen como un portal
+[05Feb2025 03:21:29.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> esa es la ancient city
