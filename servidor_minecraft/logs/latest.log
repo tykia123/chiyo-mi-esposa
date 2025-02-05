@@ -900,3 +900,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Feb2025 21:57:38.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> matar bruja
 [05Feb2025 21:57:49.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> con eso ya tendriamos los que nos faltan
 [05Feb2025 21:57:53.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> go uno cada uno
+[05Feb2025 21:58:00.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> yo buco desierto
+[05Feb2025 21:58:13.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> tu ve a la nieve
+[05Feb2025 21:58:23.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> que busoc en la nieve
+[05Feb2025 21:58:32.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> iglus
+[05Feb2025 21:58:52.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> deberian salirte en los cofres de ahi o en su piso subterraneo
+[05Feb2025 21:59:55.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> yara
+[05Feb2025 22:00:12.853] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/86013, l='ServerLevel[world]', x=-20.63, y=-256.00, z=-1215.33] died, message: 'Villager was killed'
+[05Feb2025 22:00:13.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> mano mas kgado esta encontrar el desierto
+[05Feb2025 22:00:24.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> hare pocionesde velocidad
+[05Feb2025 22:00:28.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> te aouesto que encuentro dungeon antes que eso
+[05Feb2025 22:00:42.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> esque ya tenemos casi todas de las dungeos
+[05Feb2025 22:00:51.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> a ecepcion del submarino
+[05Feb2025 22:04:00.842] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/87671, l='ServerLevel[world]', x=-20.63, y=-256.00, z=-1215.33] died, message: 'Villager was killed'
+[05Feb2025 22:05:10.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> o en una de piglins si no queires buscar
+[05Feb2025 22:06:15.247] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[05Feb2025 22:06:36.130] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5891ms or 117 ticks behind
+[05Feb2025 22:06:54.333] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3244ms or 64 ticks behind
+[05Feb2025 22:07:13.440] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05Feb2025 22:07:37.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[05Feb2025 22:07:52.336] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShandeMM lost connection: Disconnected
+[05Feb2025 22:07:52.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM left the game
+[05Feb2025 22:08:07.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vale lost connection: Disconnected
+[05Feb2025 22:08:07.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale left the game
