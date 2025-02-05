@@ -1187,9 +1187,22 @@
     },
     "done": true
   },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "blue": "2025-02-05 21:15:14 +0000",
+      "violet": "2025-02-05 21:14:54 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/first_pray": {
     "criteria": {
       "coded_trigger": "2025-02-05 20:29:22 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy": "2025-02-05 21:08:38 +0000"
     },
     "done": true
   },
