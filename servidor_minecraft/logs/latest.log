@@ -611,3 +611,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Feb2025 19:46:42.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale joined the game
 [05Feb2025 19:52:50.263] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guillermo lost connection: Disconnected
 [05Feb2025 19:52:50.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo left the game
+[05Feb2025 20:15:33.538] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ShandeMM[/100.123.117.40:55954] logged in with entity id 23204 at (-134.3004317799961, 100.0, -401.55705146683385)
+[05Feb2025 20:15:33.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM joined the game
+[05Feb2025 20:16:05.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> QUE CARAJOBIS
+[05Feb2025 20:17:41.642] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guillermo[/100.72.57.89:61521] logged in with entity id 24649 at (6.112500011920929, 112.0, -1132.3101769244217)
+[05Feb2025 20:17:41.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo joined the game
+[05Feb2025 20:23:39.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has made the advancement [With Fire It Writes]
+[05Feb2025 20:23:56.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> wtf
+[05Feb2025 20:24:08.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> que haces mano
+[05Feb2025 20:24:12.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> deja de hackear
+[05Feb2025 20:24:14.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> ordeno mis cofres
+[05Feb2025 20:24:20.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> y agarre algo y me dio eso
