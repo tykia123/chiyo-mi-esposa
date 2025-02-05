@@ -728,3 +728,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Feb2025 03:49:06.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> xdddd
 [05Feb2025 03:49:24.700] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShandeMM lost connection: Disconnected
 [05Feb2025 03:49:24.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM left the game
+[05Feb2025 04:18:12.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo has made the advancement [I Can See Forever]
