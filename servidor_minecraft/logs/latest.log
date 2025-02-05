@@ -945,3 +945,68 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Feb2025 22:16:59.974] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/95568, l='ServerLevel[world]', x=285.10, y=53.04, z=270.98] died: Restless Spirit was slain by Guillermo
 [05Feb2025 22:17:48.841] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/95228, l='ServerLevel[world]', x=324.37, y=-20.00, z=254.47] died: Restless Spirit was killed
 [05Feb2025 22:18:12.841] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/95412, l='ServerLevel[world]', x=273.73, y=-20.00, z=272.70] died: Restless Spirit was killed
+[05Feb2025 22:18:43.913] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05Feb2025 22:19:12.841] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/95756, l='ServerLevel[world]', x=318.77, y=-20.00, z=241.41] died: Restless Spirit was killed
+[05Feb2025 22:20:37.841] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/96492, l='ServerLevel[world]', x=314.77, y=-20.00, z=344.03] died: Restless Spirit was killed
+[05Feb2025 22:21:25.841] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/96811, l='ServerLevel[world]', x=322.93, y=-20.00, z=309.25] died: Restless Spirit was killed
+[05Feb2025 22:21:59.841] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/97107, l='ServerLevel[world]', x=323.33, y=-20.00, z=283.32] died: Restless Spirit was killed
+[05Feb2025 22:22:29.841] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/97418, l='ServerLevel[world]', x=295.18, y=-20.00, z=232.29] died: Restless Spirit was killed
+[05Feb2025 22:23:56.841] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/98165, l='ServerLevel[world]', x=257.02, y=-20.00, z=229.18] died: Restless Spirit was killed
+[05Feb2025 22:24:22.841] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/98453, l='ServerLevel[world]', x=295.64, y=-20.00, z=257.61] died: Restless Spirit was killed
+[05Feb2025 22:24:22.842] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/98456, l='ServerLevel[world]', x=334.37, y=-20.00, z=283.54] died: Restless Spirit was killed
+[05Feb2025 22:24:33.843] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/98519, l='ServerLevel[world]', x=325.41, y=-20.00, z=253.85] died: Restless Spirit was killed
+[05Feb2025 22:28:52.840] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/100560, l='ServerLevel[world]', x=313.72, y=-20.00, z=285.85] died: Restless Spirit was killed
+[05Feb2025 22:29:10.841] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/100677, l='ServerLevel[world]', x=285.75, y=-20.00, z=244.48] died: Restless Spirit was killed
+[05Feb2025 22:29:15.841] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/100746, l='ServerLevel[world]', x=308.00, y=-20.00, z=295.70] died: Restless Spirit was killed
+[05Feb2025 22:29:52.841] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/101018, l='ServerLevel[world]', x=339.92, y=-20.00, z=276.64] died: Restless Spirit was killed
+[05Feb2025 22:30:19.903] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/101186, l='ServerLevel[world]', x=212.64, y=-20.00, z=358.62] died: Restless Spirit was killed
+[05Feb2025 22:35:10.302] [Worker-Main-127/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[05Feb2025 22:35:14.085] [Worker-Main-169/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=147, y=169, z=-166}
+[05Feb2025 22:38:48.841] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/104456, l='ServerLevel[world]', x=363.83, y=-20.00, z=806.12] died: Restless Spirit was killed
+[05Feb2025 22:39:18.842] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/104768, l='ServerLevel[world]', x=374.19, y=-20.00, z=796.37] died: Restless Spirit was killed
+[05Feb2025 22:39:27.841] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/104911, l='ServerLevel[world]', x=370.32, y=-20.00, z=765.32] died: Restless Spirit was killed
+[05Feb2025 22:45:15.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo has made the advancement [A New Protector...]
+[05Feb2025 22:47:42.557] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/107528, l='ServerLevel[world]', x=366.24, y=49.51, z=797.12] died: Restless Spirit was slain by Guillermo
+[05Feb2025 22:48:11.359] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6570ms or 131 ticks behind
+[05Feb2025 22:48:33.412] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/107257, l='ServerLevel[world]', x=282.61, y=-20.00, z=758.79] died: Restless Spirit was killed
+[05Feb2025 22:49:00.373] [Worker-Main-74/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Feb2025 22:49:00.374] [Worker-Main-74/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Feb2025 22:49:24.390] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/107579, l='ServerLevel[world]', x=282.83, y=-20.00, z=800.28] died: Restless Spirit was killed
+[05Feb2025 22:49:59.390] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/107682, l='ServerLevel[world]', x=374.32, y=-20.00, z=772.97] died: Restless Spirit was killed
+[05Feb2025 22:50:02.390] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/107696, l='ServerLevel[world]', x=355.89, y=-20.00, z=701.40] died: Restless Spirit was killed
+[05Feb2025 22:50:02.391] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/107699, l='ServerLevel[world]', x=339.12, y=-20.00, z=684.23] died: Restless Spirit was killed
+[05Feb2025 22:50:02.392] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/107702, l='ServerLevel[world]', x=359.27, y=-20.00, z=699.63] died: Restless Spirit was killed
+[05Feb2025 22:50:10.390] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/107719, l='ServerLevel[world]', x=304.51, y=-20.00, z=743.29] died: Restless Spirit was killed
+[05Feb2025 22:50:16.391] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/107729, l='ServerLevel[world]', x=385.49, y=-20.00, z=697.82] died: Restless Spirit was killed
+[05Feb2025 22:50:16.391] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/107731, l='ServerLevel[world]', x=386.49, y=-20.00, z=702.38] died: Restless Spirit was killed
+[05Feb2025 22:50:19.391] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/107747, l='ServerLevel[world]', x=307.39, y=-20.00, z=703.47] died: Restless Spirit was killed
+[05Feb2025 22:50:20.390] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/107754, l='ServerLevel[world]', x=312.09, y=-20.00, z=735.85] died: Restless Spirit was killed
+[05Feb2025 22:50:20.391] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/107756, l='ServerLevel[world]', x=313.15, y=-20.00, z=755.29] died: Restless Spirit was killed
+[05Feb2025 22:50:25.390] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/107795, l='ServerLevel[world]', x=354.21, y=-20.00, z=789.08] died: Restless Spirit was killed
+[05Feb2025 22:50:28.391] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/107813, l='ServerLevel[world]', x=329.37, y=-20.00, z=794.75] died: Restless Spirit was killed
+[05Feb2025 22:50:33.390] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/107831, l='ServerLevel[world]', x=427.63, y=-20.00, z=730.76] died: Restless Spirit was killed
+[05Feb2025 22:51:20.392] [Worker-Main-126/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[05Feb2025 22:51:20.392] [Worker-Main-126/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[05Feb2025 22:51:20.392] [Worker-Main-126/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[05Feb2025 22:51:20.393] [Worker-Main-126/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[05Feb2025 22:51:45.833] [Worker-Main-125/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-423, y=-50, z=-211}
+[05Feb2025 22:51:45.839] [Worker-Main-125/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[05Feb2025 22:51:45.839] [Worker-Main-125/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[05Feb2025 22:51:45.840] [Worker-Main-125/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[05Feb2025 22:51:45.840] [Worker-Main-125/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[05Feb2025 22:51:45.840] [Worker-Main-125/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[05Feb2025 22:51:45.864] [Worker-Main-125/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[05Feb2025 22:51:45.869] [Worker-Main-125/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[05Feb2025 22:51:45.870] [Worker-Main-125/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[05Feb2025 22:51:47.298] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-420, y=-50, z=-211}
+[05Feb2025 22:51:47.298] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-413, y=-49, z=-217}
+[05Feb2025 22:51:47.299] [Worker-Main-120/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-418, y=-50, z=-208}
+[05Feb2025 22:52:54.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo has made the advancement [Campfire Song Song]
+[05Feb2025 22:53:34.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo has completed the challenge [Village Defender]
+[05Feb2025 22:53:47.994] [pool-6-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos BlockPos{x=2837, y=72, z=7013}
+[05Feb2025 22:53:50.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[05Feb2025 22:57:59.271] [Worker-Main-126/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Feb2025 22:57:59.752] [Worker-Main-74/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Feb2025 22:57:59.753] [Worker-Main-74/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[05Feb2025 22:58:47.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guillermo lost connection: Disconnected
+[05Feb2025 22:58:47.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo left the game

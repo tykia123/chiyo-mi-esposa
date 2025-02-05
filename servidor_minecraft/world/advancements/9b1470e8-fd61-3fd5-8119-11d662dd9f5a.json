@@ -211,6 +211,7 @@
       "minecraft:pillager": "2024-12-29 04:58:29 +0000",
       "minecraft:blaze": "2025-01-08 22:08:33 +0000",
       "minecraft:skeleton": "2024-12-28 20:33:54 +0000",
+      "minecraft:ravager": "2025-02-05 22:53:28 +0000",
       "minecraft:ghast": "2025-02-02 05:26:41 +0000",
       "minecraft:hoglin": "2024-12-29 03:52:53 +0000",
       "minecraft:vindicator": "2024-12-29 05:02:43 +0000",
@@ -1177,6 +1178,79 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-05 22:57:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-05 22:57:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-05 22:57:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-05 22:57:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-05 22:57:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-02-05 22:58:11 +0000",
+      "log_spam_fixer": "2025-02-05 22:57:59 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-05 22:57:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-05 22:57:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-05 22:57:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-05 22:57:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-05 22:57:59 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-02-05 22:57:59 +0000"
+    },
+    "done": false
+  },
   "tombstone:adventure/create_decorative_grave": {
     "criteria": {
       "has_decorative_grave": "2025-02-05 20:26:27 +0000"
@@ -1186,6 +1260,18 @@
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2025-02-05 20:54:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-02-05 22:53:34 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-02-05 22:51:55 +0000"
     },
     "done": true
   },
@@ -1208,6 +1294,12 @@
     },
     "done": true
   },
+  "endrem:main/cursed_eye": {
+    "criteria": {
+      "cursed_eye": "2025-02-05 22:45:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-02-05 21:44:35 +0000"
@@ -1217,6 +1309,12 @@
   "tombstone:adventure/strong_undead": {
     "criteria": {
       "coded_trigger": "2025-02-05 21:51:08 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:pillager_camp": {
+    "criteria": {
+      "in_pillager_camp": "2025-02-05 22:52:54 +0000"
     },
     "done": true
   },
