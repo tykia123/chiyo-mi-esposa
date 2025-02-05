@@ -218,6 +218,7 @@
       "minecraft:spider": "2024-12-29 04:19:26 +0000",
       "minecraft:piglin_brute": "2025-02-02 19:11:20 +0000",
       "minecraft:creeper": "2024-12-29 03:05:56 +0000",
+      "minecraft:wither": "2025-02-05 21:51:08 +0000",
       "minecraft:slime": "2024-12-29 04:02:47 +0000",
       "minecraft:evoker": "2024-12-31 05:06:10 +0000",
       "minecraft:phantom": "2025-02-02 21:23:00 +0000",
@@ -1209,6 +1210,12 @@
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-02-05 21:44:35 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-02-05 21:51:08 +0000"
     },
     "done": true
   },
