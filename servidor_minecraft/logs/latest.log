@@ -605,3 +605,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Feb2025 19:04:34.444] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/4947, l='ServerLevel[world]', x=-20.63, y=-256.00, z=-1215.33] died, message: 'Villager was killed'
 [05Feb2025 19:11:44.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vale lost connection: Disconnected
 [05Feb2025 19:11:44.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale left the game
+[05Feb2025 19:14:41.172] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guillermo[/100.72.57.89:50096] logged in with entity id 6708 at (4.439954558393561, 112.0, -1134.8301612838281)
+[05Feb2025 19:14:41.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo joined the game
