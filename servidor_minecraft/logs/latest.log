@@ -814,3 +814,45 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Feb2025 21:36:44.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> ya me arroparon con lo que voy viendo
 [05Feb2025 21:37:00.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> ptasumare
 [05Feb2025 21:37:10.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> necesitamos subir al nivel maximo a un aldeano sacerdote
+[05Feb2025 21:37:18.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> calavera de wither no'
+[05Feb2025 21:37:22.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> esqueleto wither
+[05Feb2025 21:37:27.131] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vale lost connection: Timed out
+[05Feb2025 21:37:27.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale left the game
+[05Feb2025 21:37:27.204] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Feb2025 21:37:27.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> con la posibilidad de que nos lo de en 1 de 4
+[05Feb2025 21:37:34.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> como asi?
+[05Feb2025 21:37:39.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> huesos?
+[05Feb2025 21:37:51.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> quieres cabeza de esqueleto wither no?
+[05Feb2025 21:37:54.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> sip
+[05Feb2025 21:38:00.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> te llevo 4
+[05Feb2025 21:38:26.097] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vale[/100.70.125.24:58131] logged in with entity id 73872 at (-1.9117365154901744, 87.25220334025373, -1159.156144520156)
+[05Feb2025 21:38:26.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale joined the game
+[05Feb2025 21:38:28.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> a la mrda
+[05Feb2025 21:38:54.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported ShandeMM to 6.500000, 105.000000, -1107.500000]
+[05Feb2025 21:39:04.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> mano, todo para que no cambien en nada el end
+[05Feb2025 21:39:06.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> .-.
+[05Feb2025 21:39:26.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> nos pijeamo al wither ahora
+[05Feb2025 21:39:30.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> de una
+[05Feb2025 21:39:30.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> y luego voy gym
+[05Feb2025 21:39:35.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> cgd tan temprano
+[05Feb2025 21:40:41.642] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/74832, l='ServerLevel[world]', x=18.55, y=-256.00, z=-1130.09] died, message: 'Villager was killed'
+[05Feb2025 21:41:08.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> d6nde?
+[05Feb2025 21:41:12.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> mas lejos
+[05Feb2025 21:42:00.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> aca?
+[05Feb2025 21:42:10.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> dale
+[05Feb2025 21:43:12.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> wtffff
+[05Feb2025 21:43:22.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> no me digas que esta mrda cambio
+[05Feb2025 21:43:34.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> hazle uno mas de altura a ver
+[05Feb2025 21:44:35.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo has made the advancement [Withering Heights]
+[05Feb2025 21:44:35.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has made the advancement [Withering Heights]
+[05Feb2025 21:44:40.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> a3e1ate
+[05Feb2025 21:45:06.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has reached the goal [Strong Undead]
+[05Feb2025 21:45:24.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> que te dio}
+[05Feb2025 21:45:29.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo has made the advancement [Wither You Want It Or Not]
+[05Feb2025 21:45:49.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> bueno
+[05Feb2025 21:45:55.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> no se si se noto la pocion
+[05Feb2025 21:46:03.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> pero crei que estaria mas dificil
+[05Feb2025 21:46:05.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> jajajja
+[05Feb2025 21:46:12.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> dale otra vez
+[05Feb2025 21:46:29.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> voy aver nas cabezas
+[05Feb2025 21:46:56.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> apura pss
