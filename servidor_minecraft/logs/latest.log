@@ -607,3 +607,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Feb2025 19:11:44.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale left the game
 [05Feb2025 19:14:41.172] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Guillermo[/100.72.57.89:50096] logged in with entity id 6708 at (4.439954558393561, 112.0, -1134.8301612838281)
 [05Feb2025 19:14:41.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo joined the game
+[05Feb2025 19:46:42.736] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vale[/100.70.125.24:57283] logged in with entity id 11768 at (-59.5, 119.5, -1176.5)
+[05Feb2025 19:46:42.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale joined the game
+[05Feb2025 19:52:50.263] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guillermo lost connection: Disconnected
+[05Feb2025 19:52:50.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo left the game
