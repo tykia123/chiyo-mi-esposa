@@ -1157,6 +1157,12 @@
     },
     "done": true
   },
+  "undead_revamp2:earthyblood": {
+    "criteria": {
+      "earthyblood": "2025-02-05 07:22:10 +0000"
+    },
+    "done": true
+  },
   "friendsandfoes:husbandry/beehive": {
     "criteria": {
       "beehive": "2025-02-05 03:38:48 +0000"

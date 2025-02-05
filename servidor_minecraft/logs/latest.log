@@ -736,3 +736,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Feb2025 06:58:55.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Guillermo:  :v
 [05Feb2025 07:01:58.774] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/59842, l='ServerLevel[world]', x=-20.99, y=-256.00, z=-1216.69] died, message: 'Villager was killed'
 [05Feb2025 07:04:11.774] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/60250, l='ServerLevel[world]', x=-20.63, y=-256.00, z=-1215.33] died, message: 'Villager was killed'
+[05Feb2025 07:22:10.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo has completed the challenge [Nuh UH!]
