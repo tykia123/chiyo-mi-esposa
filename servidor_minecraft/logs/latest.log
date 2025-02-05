@@ -708,3 +708,23 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Feb2025 03:41:53.940] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
 [05Feb2025 03:42:11.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
 [05Feb2025 03:42:29.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2482ms or 49 ticks behind
+[05Feb2025 03:42:52.995] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[05Feb2025 03:43:10.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2830ms or 56 ticks behind
+[05Feb2025 03:44:22.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Teleported Vale to -63.500000, 112.000000, -1137.500000]
+[05Feb2025 03:44:52.966] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Vale lost connection: Disconnected
+[05Feb2025 03:44:52.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale left the game
+[05Feb2025 03:44:59.175] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/27065, l='ServerLevel[world]', x=-20.63, y=-256.00, z=-1215.33] died, message: 'Villager was killed'
+[05Feb2025 03:45:19.183] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/27163, l='ServerLevel[world]', x=-125.31, y=-256.00, z=-417.09] died, message: 'Villager was killed'
+[05Feb2025 03:46:36.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> mano
+[05Feb2025 03:46:42.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> dime
+[05Feb2025 03:46:44.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> me ha daño sueño
+[05Feb2025 03:46:51.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> khe
+[05Feb2025 03:47:12.177] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/27764, l='ServerLevel[world]', x=-20.63, y=-256.00, z=-1215.33] died, message: 'Villager was killed'
+[05Feb2025 03:48:36.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> comer bañrar
+[05Feb2025 03:48:43.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> me ha dejado fresco
+[05Feb2025 03:48:52.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> ahhhhh
+[05Feb2025 03:48:57.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> como dijiste daño
+[05Feb2025 03:49:01.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> me confundio ajajaj
+[05Feb2025 03:49:06.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> xdddd
+[05Feb2025 03:49:24.700] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShandeMM lost connection: Disconnected
+[05Feb2025 03:49:24.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM left the game
