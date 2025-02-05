@@ -299,6 +299,7 @@
       "minecraft:piglin": "2025-01-03 20:44:30 +0000",
       "minecraft:stray": "2024-12-29 04:35:39 +0000",
       "minecraft:enderman": "2025-01-11 03:49:56 +0000",
+      "minecraft:silverfish": "2025-02-05 20:52:49 +0000",
       "minecraft:vex": "2024-12-30 23:09:20 +0000",
       "minecraft:zombie": "2024-12-29 03:54:11 +0000",
       "quark:foxhound": "2025-02-04 20:54:30 +0000",
@@ -1243,6 +1244,12 @@
   "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
       "tool": "2025-02-05 20:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2025-02-05 20:49:53 +0000"
     },
     "done": true
   },
