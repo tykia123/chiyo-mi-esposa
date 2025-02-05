@@ -598,3 +598,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Feb2025 18:34:44.388] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: item config parser finished, item count: 16
 [05Feb2025 18:34:44.389] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! Modifiers ready: 28
 [05Feb2025 18:34:44.389] [Server thread/INFO] [atomicstryker.infernalmobs.common.InfernalMobsCore/]: InfernalMobsCore commonSetup completed! config file at: /workspaces/manadas/servidor_minecraft/./config/infernalmobs.cfg
+[05Feb2025 18:52:02.599] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[05Feb2025 18:52:02.733] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Vale[/100.70.125.24:56809] logged in with entity id 1461 at (-59.74837452113028, 119.0, -1178.1465640549877)
+[05Feb2025 18:52:02.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vale joined the game
+[05Feb2025 18:52:04.757] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2068ms or 41 ticks behind
