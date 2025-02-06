@@ -707,3 +707,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Feb2025 03:47:16.585] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Beekeeper'/19139, l='ServerLevel[world]', x=2936.82, y=62.85, z=7927.70] died, message: 'Beekeeper was slain by Sucker'
 [06Feb2025 03:47:41.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> no puedes jatear no?}
 [06Feb2025 03:47:45.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> nop
+[06Feb2025 03:52:12.590] [Worker-Main-32/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1073, y=-5, z=-1447}
+[06Feb2025 03:52:33.459] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1155, y=-49, z=-1424}
