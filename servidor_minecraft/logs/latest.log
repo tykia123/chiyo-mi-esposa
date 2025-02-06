@@ -709,3 +709,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Feb2025 03:47:45.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> nop
 [06Feb2025 03:52:12.590] [Worker-Main-32/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1073, y=-5, z=-1447}
 [06Feb2025 03:52:33.459] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1155, y=-49, z=-1424}
+[06Feb2025 04:00:30.596] [Worker-Main-31/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[06Feb2025 04:00:30.597] [Worker-Main-31/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[06Feb2025 04:00:44.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> como vas?
+[06Feb2025 04:00:53.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> busco y busco
+[06Feb2025 04:00:57.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> encontre aldea
+[06Feb2025 04:00:59.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> pero nada
+[06Feb2025 04:02:56.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> creo que voy a encontrar otro
+[06Feb2025 04:03:21.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> como hvon
+[06Feb2025 04:03:24.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> donde mrd estas
+[06Feb2025 04:03:26.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> pasa tips
+[06Feb2025 04:03:29.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> que busco y nada
+[06Feb2025 04:03:32.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> 2891
+[06Feb2025 04:03:34.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> 7900
+[06Feb2025 04:03:41.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> que mrd
+[06Feb2025 04:03:48.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> lo que hace el nether
+[06Feb2025 04:03:54.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> -1000 x y-1600
+[06Feb2025 04:04:05.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> mano encontre un artefacto que hace que los mobs suelten el doble de xp
+[06Feb2025 04:04:20.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> dejalo en la maquina de xp
+[06Feb2025 04:05:01.097] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1128, y=-36, z=-1250}
+[06Feb2025 04:05:08.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShandeMM moved too quickly! 7.6207317508890355,0.0,6.694901116756682
+[06Feb2025 04:08:22.193] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/38510, l='ServerLevel[world]', x=2903.50, y=70.00, z=8202.50]
