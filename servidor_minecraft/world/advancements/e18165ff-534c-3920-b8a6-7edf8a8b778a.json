@@ -153,6 +153,7 @@
       "minecraft:frozen_ocean": "2025-02-03 22:15:55 +0000",
       "minecraft:windswept_forest": "2025-01-31 22:23:26 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-29 03:34:21 +0000",
+      "minecraft:snowy_beach": "2025-02-06 04:48:41 +0000",
       "minecraft:frozen_peaks": "2025-01-03 19:55:23 +0000",
       "minecraft:deep_dark": "2024-12-30 22:05:49 +0000",
       "minecraft:meadow": "2024-12-29 03:44:22 +0000",
@@ -1281,6 +1282,18 @@
   "undead_revamp2:cloggeradvance": {
     "criteria": {
       "cloggeradvance": "2025-02-06 04:09:29 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cold_eye": {
+    "criteria": {
+      "cold_eye": "2025-02-06 04:52:10 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/exorcism": {
+    "criteria": {
+      "coded_trigger": "2025-02-06 04:53:20 +0000"
     },
     "done": true
   },
