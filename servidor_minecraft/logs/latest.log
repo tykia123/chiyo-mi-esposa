@@ -730,3 +730,36 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Feb2025 04:05:01.097] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1128, y=-36, z=-1250}
 [06Feb2025 04:05:08.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ShandeMM moved too quickly! 7.6207317508890355,0.0,6.694901116756682
 [06Feb2025 04:08:22.193] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/38510, l='ServerLevel[world]', x=2903.50, y=70.00, z=8202.50]
+[06Feb2025 04:09:29.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ShandeMM has completed the challenge [Unsanitary BBQ]
+[06Feb2025 04:10:09.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> 3 aldea
+[06Feb2025 04:10:13.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> y no existen iglus
+[06Feb2025 04:10:28.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> desierto o jungla no encuentra?
+[06Feb2025 04:10:38.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> hielo fatal
+[06Feb2025 04:11:07.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> zzzz
+[06Feb2025 04:11:21.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> zzzzzzzzzzzzzzzzz
+[06Feb2025 04:11:39.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> o espera, te referias a dormir?
+[06Feb2025 04:11:45.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> zzzzzzzz
+[06Feb2025 04:13:37.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> como son los ojos que necesitas
+[06Feb2025 04:13:40.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> manda foto por wsp
+[06Feb2025 04:13:45.695] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42150, l='ServerLevel[world]', x=2902.50, y=70.00, z=8204.50]
+[06Feb2025 04:13:49.746] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42224, l='ServerLevel[world]', x=2904.50, y=70.00, z=8203.50]
+[06Feb2025 04:13:51.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> debajo del ojo
+[06Feb2025 04:13:53.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> debe decir
+[06Feb2025 04:13:58.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> end remastered
+[06Feb2025 04:14:01.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> okay
+[06Feb2025 04:14:03.047] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42330, l='ServerLevel[world]', x=2902.50, y=70.00, z=8202.50]
+[06Feb2025 04:14:03.862] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/42345, l='ServerLevel[world]', x=2860.50, y=79.00, z=8155.50]
+[06Feb2025 04:15:38.098] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/43421, l='ServerLevel[world]', x=2904.50, y=70.00, z=8202.50]
+[06Feb2025 04:15:41.247] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/43471, l='ServerLevel[world]', x=2859.50, y=79.00, z=8154.50]
+[06Feb2025 04:15:50.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> tienes algun corazon del mar?
+[06Feb2025 04:15:55.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> nop
+[06Feb2025 04:16:01.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> es un circulo azul de doble tonalidad
+[06Feb2025 04:16:20.795] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/43782, l='ServerLevel[world]', x=2861.50, y=79.00, z=8153.50]
+[06Feb2025 04:18:31.912] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[06Feb2025 04:18:38.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> wtf dos aldeas juntas
+[06Feb2025 04:18:42.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> de dos biomas
+[06Feb2025 04:18:42.407] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2971, y=55, z=8443} BlockPos{x=2971, y=54, z=8443}
+[06Feb2025 04:18:50.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3340ms or 66 ticks behind
+[06Feb2025 04:19:17.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[06Feb2025 04:19:28.064] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2928, y=52, z=8434} BlockPos{x=2928, y=51, z=8434}
+[06Feb2025 04:19:34.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2183ms or 43 ticks behind
