@@ -1178,82 +1178,33 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "tombstone:recipes/from_white_marble": {
     "criteria": {
-      "log_spam_fixer": "2025-02-05 22:57:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-05 22:57:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-05 22:57:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-05 22:57:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-05 22:57:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-02-05 22:58:11 +0000",
-      "log_spam_fixer": "2025-02-05 22:57:59 +0000"
+      "has_ingredient": "2025-02-05 20:25:38 +0000"
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
+  "tombstone:adventure/create_grave_marble": {
     "criteria": {
-      "log_spam_fixer": "2025-02-05 22:57:59 +0000"
+      "has_grave_marble": "2025-02-05 20:25:38 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-05 22:57:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-05 22:57:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-05 22:57:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-05 22:57:59 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-05 22:57:59 +0000"
-    },
-    "done": false
+    "done": true
   },
   "tombstone:adventure/create_decorative_grave": {
     "criteria": {
       "has_decorative_grave": "2025-02-05 20:26:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2025-02-05 20:26:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_pray": {
+    "criteria": {
+      "coded_trigger": "2025-02-05 20:29:22 +0000"
     },
     "done": true
   },
@@ -1263,15 +1214,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/village_defender": {
+  "undead_revamp2:mommy": {
     "criteria": {
-      "coded_trigger": "2025-02-05 22:53:34 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_merchant_campsite": {
-    "criteria": {
-      "location0": "2025-02-05 22:51:55 +0000"
+      "mommy": "2025-02-05 21:08:38 +0000"
     },
     "done": true
   },
@@ -1282,51 +1227,9 @@
     },
     "done": false
   },
-  "tombstone:adventure/first_pray": {
-    "criteria": {
-      "coded_trigger": "2025-02-05 20:29:22 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:mommy": {
-    "criteria": {
-      "mommy": "2025-02-05 21:08:38 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/cursed_eye": {
-    "criteria": {
-      "cursed_eye": "2025-02-05 22:45:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-02-05 21:44:35 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_undead": {
-    "criteria": {
-      "coded_trigger": "2025-02-05 21:51:08 +0000"
-    },
-    "done": true
-  },
-  "takesapillage:pillager_camp": {
-    "criteria": {
-      "in_pillager_camp": "2025-02-05 22:52:54 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_decorative_grave": {
-    "criteria": {
-      "has_ingredient": "2025-02-05 20:26:27 +0000"
-    },
-    "done": true
-  },
-  "tombstone:recipes/from_white_marble": {
-    "criteria": {
-      "has_ingredient": "2025-02-05 20:25:38 +0000"
     },
     "done": true
   },
@@ -1336,9 +1239,33 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_grave_marble": {
+  "tombstone:adventure/strong_undead": {
     "criteria": {
-      "has_grave_marble": "2025-02-05 20:25:38 +0000"
+      "coded_trigger": "2025-02-05 21:51:08 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cursed_eye": {
+    "criteria": {
+      "cursed_eye": "2025-02-05 22:45:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-02-05 22:51:55 +0000"
+    },
+    "done": true
+  },
+  "takesapillage:pillager_camp": {
+    "criteria": {
+      "in_pillager_camp": "2025-02-05 22:52:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-02-05 22:53:34 +0000"
     },
     "done": true
   },
