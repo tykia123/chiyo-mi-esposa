@@ -659,3 +659,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [06Feb2025 03:27:47.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> me toco uno grande
 [06Feb2025 03:27:49.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> jajasjjasjajs
 [06Feb2025 03:27:54.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> wuuuuuuuuuuu golosa
+[06Feb2025 03:28:47.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> mano pero las grandes duelen
+[06Feb2025 03:28:52.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> eso me dijo ellaw
+[06Feb2025 03:29:07.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> por eso se conformo contigo?
+[06Feb2025 03:29:10.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> es sabia
+[06Feb2025 03:29:12.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ShandeMM> si manot
+[06Feb2025 03:36:22.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Guillermo has made the advancement [Trick-or-Treat?]
+[06Feb2025 03:36:26.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> otro
+[06Feb2025 03:37:05.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> faltan 3
+[06Feb2025 03:37:08.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> desiero
+[06Feb2025 03:37:13.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> nieve
+[06Feb2025 03:37:20.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Guillermo> jungla
+[06Feb2025 03:37:53.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Guillermo moved wrongly!
+[06Feb2025 03:38:08.974] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-316, y=32, z=-586}
+[06Feb2025 03:38:08.975] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-315, y=32, z=-587}
+[06Feb2025 03:38:08.981] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-312, y=32, z=-587}
+[06Feb2025 03:38:09.397] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind

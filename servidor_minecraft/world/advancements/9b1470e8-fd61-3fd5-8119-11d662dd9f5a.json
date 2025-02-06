@@ -1269,5 +1269,11 @@
     },
     "done": true
   },
+  "dungeons_arise:find_illager_windmill": {
+    "criteria": {
+      "location0": "2025-02-06 03:24:43 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
