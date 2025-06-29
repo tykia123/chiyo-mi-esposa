@@ -8,27 +8,46 @@
   <style>
     body {
       font-family: 'Open Sans', sans-serif;
-      background: linear-gradient(to bottom, #ffe4ec, #fff0f5);
+      background-image: url('https://i.ibb.co/Kq0jvFz/sakura-bg.jpg');
+      background-size: cover;
+      background-attachment: fixed;
+      background-repeat: no-repeat;
+      background-position: center;
       margin: 0;
       padding: 0;
       overflow-x: hidden;
     }
-    .background-img {
-      position: fixed;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      z-index: -1;
-      opacity: 0.07;
-      background: url('https://i.imgur.com/2Grq2fE.png') no-repeat center center;
-      background-size: cover;
+    .sakura {
+      position: absolute;
+      width: 120px;
+      height: auto;
+      opacity: 0.4;
+      z-index: 0;
     }
+    .sakura.left { top: 60%; left: -20px; transform: rotate(-20deg); }
+    .sakura.right { top: 65%; right: -20px; transform: rotate(20deg); }
+
+    .petal {
+      position: fixed;
+      top: -10%;
+      width: 30px;
+      height: 30px;
+      background: url('https://i.ibb.co/PjcZc3s/sakura-petal.png') no-repeat center/contain;
+      animation: fall 10s linear infinite;
+      opacity: 0.7;
+      pointer-events: none;
+      z-index: 0;
+    }
+    @keyframes fall {
+      0% { transform: translateY(0) rotate(0deg); }
+      100% { transform: translateY(110vh) rotate(360deg); }
+    }
+
     .heart {
       position: absolute;
       width: 40px;
       height: 40px;
-      background: url('https://i.imgur.com/Nz0i4Fj.png') no-repeat center/contain;
+      background: url('https://i.imgur.com/0vG1BNr.png') no-repeat center/contain;
       animation: float 6s ease-in-out infinite;
       opacity: 0.6;
     }
@@ -56,7 +75,7 @@
       position: relative;
       max-width: 800px;
       margin: -2rem auto 3rem;
-      background: #fff;
+      background: rgba(255,255,255,0.95);
       border-radius: 20px;
       box-shadow: 0 12px 24px rgba(0,0,0,0.1);
       padding: 3rem 2rem;
@@ -114,6 +133,17 @@
       height: 100px;
       box-shadow: 0 6px 12px rgba(0,0,0,0.1);
     }
+    .cover {
+      text-align: center;
+      margin: 3rem 0;
+    }
+    .cover iframe {
+      width: 100%;
+      max-width: 560px;
+      height: 315px;
+      border-radius: 12px;
+      box-shadow: 0 8px 16px rgba(0,0,0,0.1);
+    }
     footer {
       text-align: center;
       padding: 2rem;
@@ -126,11 +156,25 @@
       header h1 { font-size: 2.5rem; }
       main { margin: -1rem 1rem 2rem; padding: 2rem; }
       .signature { font-size: 1.4rem; }
+      .cover iframe { height: 200px; }
     }
   </style>
 </head>
 <body>
-  <div class="background-img"></div>
+  <!-- Sakura petals -->
+  <script>
+    for (let i = 0; i < 20; i++) {
+      let petal = document.createElement("div");
+      petal.classList.add("petal");
+      petal.style.left = Math.random() * 100 + "vw";
+      petal.style.animationDelay = Math.random() * 10 + "s";
+      petal.style.animationDuration = 8 + Math.random() * 5 + "s";
+      document.body.appendChild(petal);
+    }
+  </script>
+
+  <img class="sakura left" src="https://i.ibb.co/Gk0w9wv/sakura-left.png" alt="Sakura izquierda">
+  <img class="sakura right" src="https://i.ibb.co/Gk0w9wv/sakura-left.png" alt="Sakura derecha">
   <div class="heart" style="top:10%; left:15%"></div>
   <div class="heart" style="top:30%; left:75%; animation-delay: 2s"></div>
   <div class="heart" style="top:60%; left:40%; animation-delay: 4s"></div>
@@ -143,8 +187,8 @@
   </header>
   <main>
     <section class="description">
-      <p>Esta playlist es un viaje por los momentos que hemos compartido: tus susurros en la madrugada, nuestras risas en medio de la partida y cada nota que resuena con nuestro amor. Dale play y déjate llevar por la melodía de nuestro primer mes juntos.</p>
-      <p class="signature">— Tu kia 💜</p>
+      <p>Esta playlist está llena de melodías que me hacen pensar en ti: desde los días que jugábamos y reíamos, hasta las noches donde solo tu voz me bastaba para sentirme bien. Cada canción representa una parte de lo que siento, un recuerdo, un deseo, o simplemente el amor que tengo por ti.</p>
+      <p class="signature">— Tu Kia 💜</p>
     </section>
     <section class="poem">
       <p>En tus susurros encontré melodía,<br>en tus risas, la paz que no conocía.<br>Un mes contigo, y ya lo entendí:<br>el amor más real…<br>lo encontré en ti. 💜</p>
@@ -156,6 +200,10 @@
     <section class="spotify">
       <p>O haz clic aquí para abrir en Spotify:</p>
       <iframe src="https://open.spotify.com/embed/playlist/4vMSKtaVnTJhJnDjOtQARq?si=4fff323b155f49f8&pt=f32d696bc8d592a2c8167f3973667e2a" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+    </section>
+    <section class="cover">
+      <p>Y aquí uno de tus hermosos covers para que siempre escuche tu voz 🎤💖:</p>
+      <iframe src="https://www.youtube.com/embed/FOfVphzr48M" title="Cover de Tama" frameborder="0" allowfullscreen></iframe>
     </section>
   </main>
   <footer>
